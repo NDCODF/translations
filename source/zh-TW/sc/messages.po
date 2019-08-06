@@ -24930,7 +24930,7 @@ msgstr "可用欄位："
 #: sc/uiconfig/scalc/ui/pivottablelayoutdialog.ui:546
 msgctxt "pivottablelayoutdialog|label6"
 msgid "Drag the Items into the Desired Position"
-msgstr "將項目拖曳至所要的位置上"
+msgstr "將項目選取至所要的位置上"
 
 #. 9EpNA
 #: sc/uiconfig/scalc/ui/pivottablelayoutdialog.ui:571
