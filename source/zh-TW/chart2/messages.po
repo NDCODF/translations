@@ -878,6 +878,256 @@ msgctxt "STR_INVALID_TIME_UNIT"
 msgid "The major and minor interval need to be greater or equal to the resolution. Check your input."
 msgstr "主區間值與次區間值需要大於或等於解析度。請檢查您的輸入。"
 
+#: chart2/inc/strings.hrc:195
+msgctxt "STR_ONLINE_CUT"
+msgid "Cut"
+msgstr "剪下"
+
+#: chart2/inc/strings.hrc:196
+msgctxt "STR_ONLINE_COPY"
+msgid "Copy"
+msgstr "複製"
+
+#: chart2/inc/strings.hrc:197
+msgctxt "STR_ONLINE_PASTE"
+msgid "Paste"
+msgstr "貼上"
+
+#: chart2/inc/strings.hrc:198
+msgctxt "STR_ONLINE_FORMATDATASERIES"
+msgid "FormatDataSeries"
+msgstr "設定資料序列格式"
+
+#: chart2/inc/strings.hrc:199
+msgctxt "STR_ONLINE_FORMATWALL"
+msgid "FormatWall"
+msgstr "設定背景牆格式"
+
+#: chart2/inc/strings.hrc:200
+msgctxt "STR_ONLINE_INSERTDATALABELS"
+msgid "InsertDataLabels"
+msgstr "插入資料標籤"
+
+#: chart2/inc/strings.hrc:201
+msgctxt "STR_ONLINE_FORMATDATALABELS"
+msgid "FormatDataLabels"
+msgstr "設定資料標籤格式"
+
+#: chart2/inc/strings.hrc:202
+msgctxt "STR_ONLINE_DELETEDATALABELS"
+msgid "DeleteDataLabels"
+msgstr "刪除資料標籤"
+
+#: chart2/inc/strings.hrc:203
+msgctxt "STR_ONLINE_INSERTDATALABEL"
+msgid "InsertDataLabel"
+msgstr "插入單一資料標籤"
+
+#: chart2/inc/strings.hrc:204
+msgctxt "STR_ONLINE_DELETEDATALABEL"
+msgid "DeleteDataLabel"
+msgstr "刪除單一資料標籤"
+
+#: chart2/inc/strings.hrc:205
+msgctxt "STR_ONLINE_FORMATDATALABEL"
+msgid "FormatDataLabel"
+msgstr "設定單一資料標籤"
+
+#: chart2/inc/strings.hrc:206
+msgctxt "STR_ONLINE_FORMATDATAPOINT"
+msgid "FormatDataPoint"
+msgstr "設定資料點格式"
+
+#: chart2/inc/strings.hrc:207
+msgctxt "STR_ONLINE_RESETDATAPOINT"
+msgid "ResetDataPoint"
+msgstr "重設資料點"
+
+#: chart2/inc/strings.hrc:208
+msgctxt "STR_ONLINE_FORMATMEANVALUE"
+msgid "FormatMeanValue"
+msgstr "設定平均值線格式"
+
+#: chart2/inc/strings.hrc:209
+msgctxt "STR_ONLINE_INSERTTRENDLINE"
+msgid "InsertTrendline"
+msgstr "插入趨勢線"
+
+#: chart2/inc/strings.hrc:210
+msgctxt "STR_ONLINE_INSERTMEANVALUE"
+msgid "InsertMeanValue"
+msgstr "插入平均值線"
+
+#: chart2/inc/strings.hrc:211
+msgctxt "STR_ONLINE_DELETEMEANVALUE"
+msgid "DeleteMeanValue"
+msgstr "刪除平均值線"
+
+#: chart2/inc/strings.hrc:212
+msgctxt "STR_ONLINE_INSERTXERRORBARS"
+msgid "InsertXErrorBars"
+msgstr "插入X誤差線"
+
+#: chart2/inc/strings.hrc:213
+msgctxt "STR_ONLINE_INSERTYERRORBARS"
+msgid "InsertYErrorBars"
+msgstr "插入Y誤差線"
+
+#: chart2/inc/strings.hrc:214
+msgctxt "STR_ONLINE_ARRANGEROW"
+msgid "ArrangeRow"
+msgstr "排序"
+
+#: chart2/inc/strings.hrc:215
+msgctxt "STR_ONLINE_DIAGRAMTYPE"
+msgid "DiagramType"
+msgstr "圖表類型"
+
+#: chart2/inc/strings.hrc:216
+msgctxt "STR_ONLINE_DIAGRAMDATA"
+msgid "DiagramData"
+msgstr "資料表格"
+
+#: chart2/inc/strings.hrc:217
+msgctxt "STR_ONLINE_DATARANGES"
+msgid "DataRanges"
+msgstr "資料範圍"
+
+#: chart2/inc/strings.hrc:218
+msgctxt "STR_ONLINE_TRANSFORMDIALOG"
+msgid "TransformDialog"
+msgstr "位置和大小"
+
+#: chart2/inc/strings.hrc:219
+msgctxt "STR_ONLINE_INSERTTITLES"
+msgid "InsertTitles"
+msgstr "插入題名"
+
+#: chart2/inc/strings.hrc:220
+msgctxt "STR_ONLINE_INSERTAXIS"
+msgid "InsertAxis"
+msgstr "插入軸"
+
+#: chart2/inc/strings.hrc:221
+msgctxt "STR_ONLINE_DELETEAXIS"
+msgid "DeleteAxis"
+msgstr "刪除軸"
+
+#: chart2/inc/strings.hrc:222
+msgctxt "STR_ONLINE_DELETELEGEND"
+msgid "DeleteLegend"
+msgstr "刪除圖例"
+
+#: chart2/inc/strings.hrc:223
+msgctxt "STR_ONLINE_INSERTLEGEND"
+msgid "InsertLegend"
+msgstr "插入圖例"
+
+#: chart2/inc/strings.hrc:224
+msgctxt "STR_ONLINE_FORMATTITLE"
+msgid "FormatTitle"
+msgstr "設定題名格式"
+
+#: chart2/inc/strings.hrc:225
+msgctxt "STR_ONLINE_INSERTREMOVEAXES"
+msgid "InsertRemoveAxes"
+msgstr "插入/刪除軸"
+
+#: chart2/inc/strings.hrc:226
+msgctxt "STR_ONLINE_VIEW3D"
+msgid "View3D"
+msgstr "3D 檢視"
+
+#: chart2/inc/strings.hrc:227
+msgctxt "STR_ONLINE_FORMATAXIS"
+msgid "FormatAxis"
+msgstr "設定軸格式"
+
+#: chart2/inc/strings.hrc:228
+msgctxt "STR_ONLINE_FORMATMAJORGRID"
+msgid "FormatMajorGrid"
+msgstr "設定主網格格式"
+
+#: chart2/inc/strings.hrc:229
+msgctxt "STR_ONLINE_INSERTMINORGRID"
+msgid "InsertMinorGrid"
+msgstr "插入次網格"
+
+#: chart2/inc/strings.hrc:230
+msgctxt "STR_ONLINE_DELETEMAJORGRID"
+msgid "DeleteMajorGrid"
+msgstr "刪除主網格"
+
+#: chart2/inc/strings.hrc:231
+msgctxt "STR_ONLINE_DELETEMINORGRID"
+msgid "DeleteMinorGrid"
+msgstr "刪除次網格"
+
+#: chart2/inc/strings.hrc:232
+msgctxt "STR_ONLINE_INSERTAXISTITLE"
+msgid "InsertAxisTitle"
+msgstr "插入軸題名"
+
+#: chart2/inc/strings.hrc:233
+msgctxt "STR_ONLINE_FORMATCHARTAREA"
+msgid "FormatChartArea"
+msgstr "設定圖表區塊格式"
+
+#: chart2/inc/strings.hrc:234
+msgctxt "STR_ONLINE_FORMATSTOCKGAIN"
+msgid "FormatStockGain"
+msgstr "設定股票收益格式"
+
+#: chart2/inc/strings.hrc:235
+msgctxt "STR_ONLINE_FORMATSTOCKLOSS"
+msgid "FormatStockLoss"
+msgstr "設定股票虧損格式"
+
+#: chart2/inc/strings.hrc:236
+msgctxt "STR_ONLINE_FORWARD"
+msgid "Forward"
+msgstr "上移一層"
+
+#: chart2/inc/strings.hrc:237
+msgctxt "STR_ONLINE_BACKWARD"
+msgid "Backward"
+msgstr "下移一層"
+
+#: chart2/inc/strings.hrc:238
+msgctxt "STR_ONLINE_FORMATLEGEND"
+msgid "FormatLegend"
+msgstr "設定圖例格式"
+
+#: chart2/inc/strings.hrc:239
+msgctxt "STR_ONLINE_INSERTMAJORGRID"
+msgid "InsertMajorGrid"
+msgstr "插入主網格"
+
+#: chart2/inc/strings.hrc:240
+msgctxt "STR_ONLINE_FORMATMINORGRID"
+msgid "FormatMinorGrid"
+msgstr "設定次網格格式"
+
+#: chart2/inc/strings.hrc:241
+msgctxt "STR_ONLINE_FORMATXERRORBARS"
+msgid "FormatXErrorBars"
+msgstr "設定X誤差線"
+
+#: chart2/inc/strings.hrc:242
+msgctxt "STR_ONLINE_FORMATYERRORBARS"
+msgid "FormatYErrorBars"
+msgstr "設定Y誤差線"
+
+#: chart2/inc/strings.hrc:243
+msgctxt "STR_ONLINE_DELETEXERRORBARS"
+msgid "DeleteXErrorBars"
+msgstr "刪除X誤差線"
+
+#: chart2/inc/strings.hrc:244
+msgctxt "STR_ONLINE_DELETEYERRORBARS"
+msgid "DeleteYErrorBars"
+msgstr "刪除Y誤差線"
+
 #: chart2/uiconfig/ui/3dviewdialog.ui:8
 msgctxt "3dviewdialog|3DViewDialog"
 msgid "3D View"
