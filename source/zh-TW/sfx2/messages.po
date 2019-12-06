@@ -1340,6 +1340,16 @@ msgctxt "RID_CNT_STR_WAITING"
 msgid "The templates are being initialized for first-time usage."
 msgstr "現在首次初始化需要使用的範本檔案。"
 
+#: doctempl.src
+msgctxt "RID_CNT_STR_CACHE"
+msgid "The templates are being initialized for thumbnail cache."
+msgstr "現在初始化需要使用的範本縮圖暫存檔案。"
+
+#: doctempl.src
+msgctxt "RID_CNT_STR_LOAD"
+msgid "Loading..."
+msgstr "載入中..."
+
 #. F3ym2
 #: include/sfx2/strings.hrc:250
 msgctxt "STR_NODEFPRINTER"
@@ -2157,6 +2167,16 @@ msgstr "樣式"
 msgctxt "TEMPLATE_LONG_NAMES_ARY"
 msgid "Business Correspondence"
 msgstr "商務信函"
+
+#: doctempl.src
+msgctxt "TEMPLATE_LONG_NAMES_ARY"
+msgid "NDCGOVODFTool"
+msgstr "全國機關共用範本"
+
+#: doctempl.src
+msgctxt "TEMPLATE_LONG_NAMES_ARY"
+msgid "NDCODFTemplate"
+msgstr "預設範本"
 
 #. Y79e8
 #: sfx2/inc/doctempl.hrc:30
@@ -3116,7 +3136,7 @@ msgstr "類別"
 #: sfx2/uiconfig/ui/loadtemplatedialog.ui:236
 msgctxt "loadtemplatedialog|label2"
 msgid "Templates"
-msgstr "範本"
+msgstr "%PRODUCTNAME 範本"
 
 #. Bm4Mx
 #: sfx2/uiconfig/ui/loadtemplatedialog.ui:257
@@ -3806,7 +3826,7 @@ msgstr "重設預設範本"
 #: sfx2/uiconfig/ui/templatedlg.ui:61
 msgctxt "templatedlg|TemplateDialog"
 msgid "Templates"
-msgstr "範本"
+msgstr "%PRODUCTNAME 範本"
 
 #. 32zsB
 #: sfx2/uiconfig/ui/templatedlg.ui:146
@@ -3872,7 +3892,7 @@ msgstr "所有類別"
 #: sfx2/uiconfig/ui/templatedlg.ui:214
 msgctxt "templatedlg|label1"
 msgid "Filter"
-msgstr "篩選器"
+msgstr "範本類型"
 
 #. j39jM
 #: sfx2/uiconfig/ui/templatedlg.ui:321

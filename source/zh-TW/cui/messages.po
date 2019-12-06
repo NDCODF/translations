@@ -4118,8 +4118,8 @@ msgstr "使用者介面："
 msgctxt "aboutdialog|description"
 msgid "%PRODUCTNAME is a modern, easy-to-use, open source productivity suite for word processing, spreadsheets, presentations and more."
 msgstr ""
-"%PRODUCTNAME 是款現代、易用、開源的生產力套裝軟體，\n"
-"可用於文書處理、試算表、簡報等。"
+"本軟體是一套開放文件格式(ODF)應用工具組合，\n"
+"用以協助單位人員產出符合基礎開放文件格式(ODF)之應用軟體套件。"
 
 #. cFC6E
 #: cui/uiconfig/ui/aboutdialog.ui:316
