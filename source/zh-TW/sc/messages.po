@@ -1465,9 +1465,9 @@ msgstr "DIF 匯入"
 
 #. ouiCs
 #: sc/inc/globstr.hrc:272
-msgctxt "STR_STYLENAME_STANDARD"
-msgid "Default"
-msgstr "預設"
+#msgctxt "STR_STYLENAME_STANDARD"
+#msgid "Default"
+#msgstr "預設"
 
 #. GATGM
 #: sc/inc/globstr.hrc:273
