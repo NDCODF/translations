@@ -3027,6 +3027,13 @@ msgctxt "STR_ERR_LONG_LINK_FORMULA_NEEDING_CHECK"
 msgid "External content disabled."
 msgstr "已停用外部內容。"
 
+#: sc/inc/globstr.hrc:521
+msgctxt "STR_XML_META_FORMAT_WAINNING"
+msgid "This file contains incorrect ODF header formatting information. It is recommended to use this tool to save a new file to fix this problem. And confirm the correctness of this file source output method."
+msgstr "此檔案包含不正確的 ODF 表頭格式資訊，建議利用本工具另存新檔以修正此問題。\n"
+"\n"
+"並確認此檔案來源輸出方式的正確性。"
+
 #. RFrAD
 #: sc/inc/globstr.hrc:517
 msgctxt "STR_TEXTORIENTANGLE"
