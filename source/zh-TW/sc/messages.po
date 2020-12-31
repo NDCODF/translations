@@ -28194,6 +28194,11 @@ msgctxt "tpviewpage|nil"
 msgid "Zero val_ues"
 msgstr "零值(_U)"
 
+#: sc/uiconfig/scalc/ui/tpviewpage.ui
+msgctxt "tpviewpage|ztm"
+msgid "Zero to minus"
+msgstr "零值顯示為-號"
+
 #. CVAZD
 #: sc/uiconfig/scalc/ui/tpviewpage.ui:63
 msgctxt "tpviewpage|annot"
