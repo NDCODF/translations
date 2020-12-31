@@ -31653,6 +31653,11 @@ msgctxt "extended_tip|nil"
 msgid "Specifies whether to show numbers with the value of 0."
 msgstr ""
 
+#: sc/uiconfig/scalc/ui/tpviewpage.ui
+msgctxt "tpviewpage|ztm"
+msgid "Zero to minus"
+msgstr "零值顯示為-號"
+
 #. CVAZD
 #: sc/uiconfig/scalc/ui/tpviewpage.ui:75
 msgctxt "tpviewpage|annot"
