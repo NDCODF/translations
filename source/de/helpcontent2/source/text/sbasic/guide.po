@@ -1,0 +1,1448 @@
+#. extracted from helpcontent2/source/text/sbasic/guide
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2019-11-08 19:34+0100\n"
+"PO-Revision-Date: 2020-07-25 13:34+0000\n"
+"Last-Translator: Christian Kühl <kuehl.christian@googlemail.com>\n"
+"Language-Team: German <https://weblate.documentfoundation.org/projects/libo_help-master/textsbasicguide/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Accelerator-Marker: ~\n"
+"X-Generator: Weblate 4.1.1\n"
+"X-POOTLE-MTIME: 1561087588.000000\n"
+
+#. WcTKB
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"tit\n"
+"help.text"
+msgid "Access2Base"
+msgstr "Access2Base"
+
+#. bFKah
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"bm_idA2B001\n"
+"help.text"
+msgid "<bookmark_value>Access2Base</bookmark_value><bookmark_value>Microsoft Access; Access2Base</bookmark_value><bookmark_value>Access databases; run in Base</bookmark_value>"
+msgstr "<bookmark_value>Access2Base</bookmark_value><bookmark_value>Microsoft Access; Access2Base</bookmark_value><bookmark_value>Access-Datenbanken; in Base ausführen</bookmark_value>"
+
+#. V4kCb
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"hd_idA2B002\n"
+"help.text"
+msgid "Access2Base"
+msgstr "Access2Base"
+
+#. BDoqs
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"hd_idA2B003\n"
+"help.text"
+msgid "What is Access2Base?"
+msgstr "Was ist Access2Base?"
+
+#. FKEy5
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B004\n"
+"help.text"
+msgid "Access2Base is a LibreOffice Basic library of macros for (business or personal) application developers and advanced users. It is one of the libraries stored in \"LibreOffice macros and dialogs\"."
+msgstr "Access2Base ist eine LibreOffice Basic-Bibliothek mit Makros für (geschäftliche oder private) Anwendungsentwickler und fortgeschrittene Benutzer. Sie ist eine der Bibliotheken, die in \"LibreOffice Dialoge verwalten\" gespeichert sind."
+
+#. zYTgA
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B005\n"
+"help.text"
+msgid "The functionalities provided by the implemented macros are all directly inspired by Microsoft Access. The macros are callable mainly from a LibreOffice <emph>Base</emph> application, but also from <emph>any</emph> LibreOffice document (Writer, Calc, ...) where access to data stored in a database makes sense."
+msgstr "Die Funktionen der implementierten Makros sind alle direkt inspiriert von Microsoft Access. Die Makros können überwiegend direkt aus LibreOffice <emph>Base</emph> heraus aufgerufen werden, aber auch von <emph>jedem</emph> LibreOffice-Dokument (Writer, Calc, …), aus der heraus ein Zugriff auf eine Datenbank Sinn macht."
+
+#. tmNkV
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B006\n"
+"help.text"
+msgid "The API provided by Access2Base is intended to be more concise, intuitive and easy to learn than the standard UNO API (API = Application Programming Interface)."
+msgstr "Die API, die durch Access2Base bereitgestellt wird, ist dafür gedacht, kompakter, intuitiver und einfacher erlernbar zu sein als die Standard UNO-API (API = Application Programming Interface; zu deutsch Anwendungsprogrammierschnittstelle)."
+
+#. DHfDb
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B007\n"
+"help.text"
+msgid "<emph>The library is documented online on </emph><link href=\"http://www.access2base.com\" name=\"http://www.access2base.com\"><emph>http://www.access2base.com</emph></link>."
+msgstr "<emph>Die Bibliothek ist online dokumentiert auf </emph><link href=\"http://www.access2base.com\" name=\"http://www.access2base.com\"><emph>http://www.access2base.com (englisch)</emph></link>."
+
+#. fGJgF
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"hd_idA2B008\n"
+"help.text"
+msgid "The implemented macros include:"
+msgstr "Die bereitgestellten Makros enthalten:"
+
+#. UFhFo
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B009\n"
+"help.text"
+msgid "a simplified and extensible API for <emph>forms</emph>, <emph>dialogs</emph> and <emph>controls</emph> manipulations similar with the Microsoft Access object model,"
+msgstr "eine vereinfachte und erweiterbare API für die Manipulation von <emph>Formularen</emph>, <emph>Dialogen</emph> und <emph>Steuerelementen</emph>, ähnlich dem Microsoft Access-Objektmodell,"
+
+#. ZTQD8
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B010\n"
+"help.text"
+msgid "an API for database access with the <emph>table</emph>, <emph>query</emph>, <emph>recordset</emph> and <emph>field</emph> objects,"
+msgstr "eine API für den Datenbankzugriff auf die Objekte <emph>Tabelle</emph>, <emph>Abfrage</emph>, <emph>Datensatz</emph> und <emph>Feld</emph>,"
+
+#. z3ZS9
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B011\n"
+"help.text"
+msgid "a number of <emph>actions</emph> with a syntax identical to their corresponding Microsoft Access macros/actions,"
+msgstr "eine Anzahl an <emph>Aktionen</emph> mit einer Syntax, die ihren Microsoft Access-Makros/Aktionen entsprechen,"
+
+#. GQaLp
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B012\n"
+"help.text"
+msgid "the <emph>DLookup</emph>, <emph>DSum</emph>, ... database functions,"
+msgstr "die Datenbankfunktionen <emph>DLookup</emph>, <emph>DSum</emph>, …,"
+
+#. jeLAg
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B013\n"
+"help.text"
+msgid "the support of the shortcut notations like <item type=\"literal\">Forms!myForm!myControl</item>"
+msgstr "die Unterstützung der Kurzschreibweise wie <item type=\"literal\">Forms!myForm!myControl</item>"
+
+#. QDQtE
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B014\n"
+"help.text"
+msgid "in addition"
+msgstr "und zusätzlich"
+
+#. 9EyMt
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B015\n"
+"help.text"
+msgid "a consistent errors and exceptions handler,"
+msgstr "ein konsequentes Fehler- und Ausnahmesteuerungsprogramm,"
+
+#. 72jo7
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B016\n"
+"help.text"
+msgid "facilities for programming form, dialog and control <emph>events</emph> and"
+msgstr "Möglichkeiten, <emph>Ereignisse</emph> für Formulare, Dialoge und Steuerelemente zu programmieren und"
+
+#. ByZAC
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"par_idA2B017\n"
+"help.text"
+msgid "the support of both embedded forms and standalone (Writer) forms."
+msgstr "Unterstützung sowohl für eingebettete als auch für eigenständige (Writer-) Formulare."
+
+#. tmq7c
+#: access2base.xhp
+msgctxt ""
+"access2base.xhp\n"
+"hd_idA2B018\n"
+"help.text"
+msgid "Compare Access2Base with Microsoft Access VBA"
+msgstr "Vergleich von Access2Base mit Microsoft Access VBA"
+
+#. 4eXWf
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"tit\n"
+"help.text"
+msgid "Basic to Python"
+msgstr "Basic in Python"
+
+#. eoGBT
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0430\n"
+"help.text"
+msgid "<bookmark_value>Basic;Calling Python</bookmark_value>         <bookmark_value>API;SimpleFileAccess</bookmark_value>         <bookmark_value>API;PathSettings</bookmark_value>         <bookmark_value>API;XScript</bookmark_value>"
+msgstr "<bookmark_value>Basic; Python aufrufen</bookmark_value><bookmark_value>API; SimpleFileAccess</bookmark_value><bookmark_value>API; PathSettings</bookmark_value><bookmark_value>API; XScript</bookmark_value>"
+
+#. 8tB4f
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"hd_id811571848401485\n"
+"help.text"
+msgid "<variable id=\"basic2python\"><link href=\"text/sbasic/guide/basic_2_python.xhp\" name=\"Basic Programming Examples\">Calling Python Scripts from Basic</link></variable>"
+msgstr "<variable id=\"basic2python\"><link href=\"text/sbasic/guide/basic_2_python.xhp\" name=\"Python-Skripte aus Basic aufrufen\">Python-Skripte aus Basic aufrufen</link></variable>"
+
+#. P7E4G
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0432\n"
+"help.text"
+msgid "Calling Python scripts from %PRODUCTNAME Basic macros is possible, and valuable features can be obtained such as:"
+msgstr "Das Aufrufen von Python-Skripten aus %PRODUCTNAME Basic-Makros ist möglich und es stehen nützliche Funktionen zur Verfügung, beispielsweise:"
+
+#. ZKSB3
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0433\n"
+"help.text"
+msgid "<literal>ComputerName</literal> identification or <literal>OSName</literal> detection are possible,"
+msgstr "Die Identifikation von <literal>ComputerName</literal> oder <literal>OSName</literal> ist möglich,"
+
+#. AW7Lr
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0434\n"
+"help.text"
+msgid "Basic <literal>FileLen()</literal> function and <link href=\"https://api.libreoffice.org/docs/idl/ref/servicecom_1_1sun_1_1star_1_1ucb_1_1SimpleFileAccess.html\" name=\"ucb.SimpleFileAccess\">com.sun.star.ucb.SimpleFileAccess.</link><literal>getSize()</literal> API function exhibit a 2 Gigabytes file size upper limit that Python helps to overcome,"
+msgstr "Die Basic-Funktionen <literal>FileLen()</literal> und <link href=\"https://api.libreoffice.org/docs/idl/ref/servicecom_1_1sun_1_1star_1_1ucb_1_1SimpleFileAccess.html\" name=\"ucb.SimpleFileAccess\">com.sun.star.ucb.SimpleFileAccess</link>. Die API-Funktion <literal>getSize()</literal> hat eine Obergrenze von 2 Gigabyte Dateigröße, die mit Python verarbeitet werden kann."
+
+#. At8D2
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0435\n"
+"help.text"
+msgid "<link href=\"https://api.libreoffice.org/docs/idl/ref/servicecom_1_1sun_1_1star_1_1util_1_1PathSettings.html\" name=\"util.PathSettings\">com.sun.star.util.PathSettings</link> can be normalized,"
+msgstr "<link href=\"https://api.libreoffice.org/docs/idl/ref/servicecom_1_1sun_1_1star_1_1util_1_1PathSettings.html\" name=\"util.PathSettings\">com.sun.star.util.PathSettings</link> kann normalisiert werden"
+
+#. CPd9K
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0436\n"
+"help.text"
+msgid "and many more."
+msgstr "und vieles mehr."
+
+#. JvzSR
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0437\n"
+"help.text"
+msgid "A reasonable exposure to %PRODUCTNAME Basic and to <link href=\"https://api.libreoffice.org/\" name=\"Application Programming Interface\">Application Programming Interface (API)</link> features is recommended prior to perform inter-language calls from Basic to Python, to JavaScript or any other script engine."
+msgstr "Ein angemessener Umgang mit %PRODUCTNAME Basic und der <link href=\"https://api.libreoffice.org/\" name=\"Anwendungs-Programmierschnittstelle\">Anwendungs-Programmierschnittstelle (API)</link> ist vor der Ausführung von Sprachaufrufen von Basic zu Python, zu JavaScript oder einer anderen Skript-Engine empfehlenswert."
+
+#. 4jY8s
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0438\n"
+"help.text"
+msgid "Retrieving Python Scripts"
+msgstr "Python-Skripte abrufen"
+
+#. bBTqb
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0439\n"
+"help.text"
+msgid "Python scripts can be personal, shared, or embedded in documents. In order to execute them, %PRODUCTNAME Basic needs to be provided with Python script locations. Locating <link href=\"https://api.libreoffice.org/docs/idl/ref/interfacecom_1_1sun_1_1star_1_1script_1_1provider_1_1XScript.html\" name=\"script.provider.XScript\">com.sun.star.script.provider.XScript</link> interface compliant UNO objects allows the execution of Python scripts:"
+msgstr "Python-Skripte können privat, freigegeben oder in Dokumente eingebettet sein. Um sie auszuführen, muss %PRODUCTNAME Basic mit Python-Skriptpfaden versehen werden. Das Auffinden von <link href=\"https://api.libreoffice.org/docs/idl/ref/interfacecom_1_1sun_1_1star_1_1script_1_1provider_1_1XScript.html\" name=\"script.provider.XScript\">com.sun.star.script.provider.XScript</link>-Interface-kompatiblen UNO-Objekten ermöglicht die Ausführung von Python-Skripten:"
+
+#. AZwVA
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0444\n"
+"help.text"
+msgid "''' Grab Python script object before execution"
+msgstr "''' Holt sich das Python-Skript-Objekt vor der Ausführung"
+
+#. woGvx
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0445\n"
+"help.text"
+msgid "' Arguments:"
+msgstr "' Argumente:"
+
+#. nvnTr
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0446\n"
+"help.text"
+msgid "'    macro   : as \"library/module.py$macro\" or \"module.py$macro\""
+msgstr "' Makro: als \"library/module.py$macro\" oder \"module.py$macro\""
+
+#. Au674
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0447\n"
+"help.text"
+msgid "'    location: as \"document\", \"share\", \"user\" or ENUM(eration)"
+msgstr "' Ort: als \"document\", \"share\", \"user\" oder ENUM(eration)"
+
+#. u5hgy
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0448\n"
+"help.text"
+msgid "' Result:"
+msgstr "' Ergebnis:"
+
+#. kskTS
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0449\n"
+"help.text"
+msgid "'    located com.sun.star.script.provider.XScript UNO service'''"
+msgstr "' findet com.sun.star.script.provider.XScript-UNO-Service'''"
+
+#. F9Hvi
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0452\n"
+"help.text"
+msgid "Dim sp As Object ' com.sun.star.script.provider.XScriptProvider compatible"
+msgstr "Dim sp As Object ' com.sun.star.script.provider.XScriptProvider-kompatibel"
+
+#. osCpU
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0463\n"
+"help.text"
+msgid "Executing Python Scripts"
+msgstr "Python-Skripte ausführen"
+
+#. pAfKa
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0464\n"
+"help.text"
+msgid "Syntax"
+msgstr "Syntax"
+
+#. gVpsb
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0466\n"
+"help.text"
+msgid "<literal>opSysName = script.invoke(Array(), in_outs, Array())</literal> ' in_out is an Array"
+msgstr "<literal>opSysName = script.invoke(Matrix(), in_outs, Matrix())</literal> ' in_out ist eine Matrix"
+
+#. jiU2w
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0469\n"
+"help.text"
+msgid "Embedded Scripts Examples"
+msgstr "Beispiele für eingebettete Skripte"
+
+#. FadCx
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0470\n"
+"help.text"
+msgid "Below <literal>ComputerName</literal>, and <literal>GetFilelen</literal> routines are calling their Python counterparts, using aforementioned <literal>GetPythonScript</literal> function. Exception handling is not detailed."
+msgstr "Unterhalb der Routinen <literal>ComputerName</literal> und <literal>GetFilelen</literal> werden Python-Gegenstücke mit der oben genannten Funktion <literal>GetPythonScript</literal> aufgerufen. Die Ausnahmebehandlung ist nicht detailliert."
+
+#. YbMbS
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0472\n"
+"help.text"
+msgid "Option Compatible ' Properties are supported"
+msgstr "Kompatible Option ' Eigenschaften werden unterstützt"
+
+#. KVNHH
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0477\n"
+"help.text"
+msgid "'''Workstation name'''"
+msgstr "'''Name der Workstation'''"
+
+#. FCaBa
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0483\n"
+"help.text"
+msgid "'''File size in bytes'''"
+msgstr "'''Dateigröße in Bytes'''"
+
+#. D9Cbu
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0489\n"
+"help.text"
+msgid "ISEMBEDDED As String ' document script"
+msgstr "ISEMBEDDED As String ' Dokumentenskript"
+
+#. bD77H
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0490\n"
+"help.text"
+msgid "ISPERSONAL As String ' user script"
+msgstr "ISPERSONAL As String ' Benutzerskript"
+
+#. TEbDh
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0491\n"
+"help.text"
+msgid "ISSHARED As String ' %PRODUCTNAME macro"
+msgstr "ISSHARED As String ' %PRODUCTNAME-Makro"
+
+#. CHTxq
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0497\n"
+"help.text"
+msgid ".ISEMBEDDED = \"document\" ' document script"
+msgstr ".ISEMBEDDED = \"document\" ' Dokumentskript"
+
+#. GGD4G
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0498\n"
+"help.text"
+msgid ".ISPERSONAL = \"user\" ' user scripts"
+msgstr ".ISPERSONAL = \"user\" ' Benutzerskript"
+
+#. hz9VR
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0499\n"
+"help.text"
+msgid ".ISSHARED = \"share\" ' %PRODUCTNAME macro"
+msgstr ".ISSHARED = \"share\" ' %PRODUCTNAME-Makro"
+
+#. KfKCA
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0503\n"
+"help.text"
+msgid "Two different Python modules are called. They can either be embedded in the current document, either be stored on the file system. Argument type checking is skipped for clarity:"
+msgstr "Es werden zwei verschiedene Python-Module aufgerufen. Sie können entweder in das aktuelle Dokument eingebettet oder im Dateisystem gespeichert werden. Die Überprüfung des Argumenttyps wird aus Gründen der Übersichtlichkeit übersprungen:"
+
+#. igPCi
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0526\n"
+"help.text"
+msgid "Personal or Shared Scripts Examples"
+msgstr "Beispiele für private oder gemeinsam genutzte Skripte"
+
+#. EPVTC
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0527\n"
+"help.text"
+msgid "The calling mechanism for personal or shared Python scripts is identical to that of embedded scripts. Library names are mapped to folders. Computing %PRODUCTNAME user profile and shared modules system file paths can be performed as detailed in <link href=\"text/sbasic/python/python_session.xhp\">Getting session information</link>. Below <literal>OSName</literal>, <literal>HelloWorld</literal> and <literal>NormalizePath</literal> routines are calling their Python counterparts, using aforementioned <literal>GetPythonScript</literal> function. Exception handling is not detailed."
+msgstr "Der Aufrufmechanismus für private oder gemeinsam genutzte Python-Skripte ist identisch mit dem von eingebetteten Skripten. Bibliotheksnamen werden Ordnern zugeordnet. Die Berechnung der Systemdateipfade für %PRODUCTNAME-Benutzerprofile und gemeinsam genutzte Module kann wie in <link href=\"text/sbasic/python/python_session.xhp\">Abrufen von Sitzungsinformationen</link> beschrieben durchgeführt werden. Unterhalb von <literal>OSName</literal> rufen die Routinen <literal>HelloWorld</literal> und <literal>NormalizePath</literal> ihre Python-Gegenstücke mit der oben genannten Funktion <literal>GetPythonScript</literal> auf. Die Ausnahmebehandlung ist nicht detailliert."
+
+#. bwkSJ
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0529\n"
+"help.text"
+msgid "Option Compatible ' Properties are supported"
+msgstr "Option Compatible ' Eigenschaften werden unterstützt"
+
+#. 3W9xB
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0534\n"
+"help.text"
+msgid "'''Platform name as \"Linux\", \"Darwin\" or \"Windows\"'''"
+msgstr "'''Plattform-Name wie \"Linux\", \"Darwin\" oder \"Windows\"'''"
+
+#. WAE7X
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0540\n"
+"help.text"
+msgid "'''%PRODUCTNAME Python shared sample'''"
+msgstr "'''Beispiel für gemeinsames %PRODUCTNAME Python'''"
+
+#. MYSSL
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0546\n"
+"help.text"
+msgid "'''Strip superfluous '\\..' in path'''"
+msgstr "'''Überflüssiger Abschnitt '\\..' im Pfad'''"
+
+#. yTqsy
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0550\n"
+"help.text"
+msgid "Python standard modules"
+msgstr "Python-Standardmodule"
+
+#. 3F9RQ
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0551\n"
+"help.text"
+msgid "%PRODUCTNAME embedded Python contains many standard libraries to benefit from. They bear a rich feature set, such as but not limited to:"
+msgstr "In %PRODUCTNAME eingebettetes Python enthält viele Standardbibliotheken, von denen Sie profitieren können. Sie sind mit zahlreichen Funktionen ausgestattet, unter anderem:"
+
+#. aPbV7
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0552\n"
+"help.text"
+msgid "<emph>argparse</emph> Parser for command-line options, arguments and sub-commands"
+msgstr "<emph>argparse</emph> Parser für Befehlszeilenoptionen, Argumente und Unterbefehle"
+
+#. zBD3c
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0553\n"
+"help.text"
+msgid "<emph>cmath</emph> Mathematical functions for complex numbers"
+msgstr "<emph>cmath</emph> Mathematische Funktionen für komplexe Zahlen"
+
+#. GDXVa
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0554\n"
+"help.text"
+msgid "<emph>csv</emph> CSV files reading and writing"
+msgstr "<emph>csv</emph> CSV-Dateien lesen und schreiben"
+
+#. FnCu8
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0555\n"
+"help.text"
+msgid "<emph>datetime</emph> Genuine date and time types"
+msgstr "<emph>datetime</emph> Echte Datums- und Zeittypen"
+
+#. GQCwa
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0556\n"
+"help.text"
+msgid "<emph>json</emph> JSON encoder and decoder"
+msgstr "<emph>json</emph> JSON Encoder und Decoder"
+
+#. JmFZK
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0557\n"
+"help.text"
+msgid "<emph>math</emph> Mathematical functions"
+msgstr "<emph>math</emph> Mathematische Funktionen"
+
+#. PRGHi
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0558\n"
+"help.text"
+msgid "<emph>re</emph> Regular expression operations"
+msgstr "<emph>re</emph> Operationen mit regulären Ausdrücken"
+
+#. XVbzW
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0559\n"
+"help.text"
+msgid "<emph>socket</emph> Low-level networking interface"
+msgstr "<emph>socket</emph> Low-Level-Netzwerkschnittstelle"
+
+#. VehtJ
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0560\n"
+"help.text"
+msgid "<emph>sys</emph> System-specific parameters and functions"
+msgstr "<emph>sys</emph> System-spezifische Parameter und Funktionen"
+
+#. RWzWY
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0561\n"
+"help.text"
+msgid "<emph>unittest</emph> and <emph>trace</emph> Unit testing framework and Track Python execution"
+msgstr "<emph>unittest</emph> und <emph>trace</emph> Unit-Test-Framework und verfolgen von Python-Ausführungen"
+
+#. JG3VZ
+#: basic_2_python.xhp
+msgctxt ""
+"basic_2_python.xhp\n"
+"N0562\n"
+"help.text"
+msgid "<emph>xml.etree.ElementTree</emph> ElementTree XML API"
+msgstr "<emph>xml.etree.ElementTree</emph> ElementTree-XML-API"
+
+#. CwBFN
+#: basic_examples.xhp
+msgctxt ""
+"basic_examples.xhp\n"
+"tit\n"
+"help.text"
+msgid "Basic Programming Examples"
+msgstr "Basic Programmierungsbeispiele"
+
+#. eBci4
+#: basic_examples.xhp
+msgctxt ""
+"basic_examples.xhp\n"
+"bm_id171559140731329\n"
+"help.text"
+msgid "<bookmark_value>Basic;programming examples</bookmark_value>"
+msgstr "<bookmark_value>Basic; Programmierungsbeispiele</bookmark_value>"
+
+#. DdPKY
+#: basic_examples.xhp
+msgctxt ""
+"basic_examples.xhp\n"
+"hd_id471559139063621\n"
+"help.text"
+msgid "<variable id=\"basicexamplestit\"><link href=\"text/sbasic/guide/basic_examples.xhp\" name=\"Basic Programming Examples\">Basic Programming Examples</link></variable>"
+msgstr "<variable id=\"basicexamplestit\"><link href=\"text/sbasic/guide/basic_examples.xhp\" name=\"Basic Programmierungsbeispiele\">Basic Programmierungsbeispiele</link></variable>"
+
+#. YLjtF
+#: control_properties.xhp
+msgctxt ""
+"control_properties.xhp\n"
+"tit\n"
+"help.text"
+msgid "Changing the Properties of Controls in the Dialog Editor"
+msgstr "Ändern der Steuerelement-Eigenschaften im Dialog-Editor"
+
+#. PDQCc
+#: control_properties.xhp
+msgctxt ""
+"control_properties.xhp\n"
+"bm_id3145786\n"
+"help.text"
+msgid "<bookmark_value>properties; controls in dialog editor</bookmark_value><bookmark_value>changing;control properties</bookmark_value><bookmark_value>controls;changing properties</bookmark_value><bookmark_value>dialog editor;changing control properties</bookmark_value>"
+msgstr "<bookmark_value>Eigenschaften; Steuerelemente im Dialog-Editor</bookmark_value><bookmark_value>Ändern; Eigenschaften von Steuerelementen</bookmark_value><bookmark_value>Steuerelemente; Eigenschaften ändern</bookmark_value><bookmark_value>Dialog-Editor; Eigenschaften von Steuerelementen ändern</bookmark_value>"
+
+#. NFh5G
+#: control_properties.xhp
+msgctxt ""
+"control_properties.xhp\n"
+"hd_id3145786\n"
+"help.text"
+msgid "<variable id=\"control_properties\"><link href=\"text/sbasic/guide/control_properties.xhp\" name=\"Changing the Properties of Controls in the Dialog Editor\">Changing the Properties of Controls in the Dialog Editor</link></variable>"
+msgstr "<variable id=\"control_properties\"><link href=\"text/sbasic/guide/control_properties.xhp\" name=\"Eigenschaften für Steuerelemente im Dialog-Editor\">Eigenschaften für Steuerelemente im Dialog-Editor</link></variable>"
+
+#. Es8Xy
+#: control_properties.xhp
+msgctxt ""
+"control_properties.xhp\n"
+"par_id3147317\n"
+"help.text"
+msgid "You can set the properties of control that you add to a dialog. For example, you can change the color, name, and size of a button that you added. You can change most control properties when you create or edit a dialog. However, you can only change some properties at runtime."
+msgstr "Farben, Bezeichnungen, Größe und Verhalten von Steuerelementen werden als Eigenschaften bezeichnet. Diese Eigenschaften lassen sich sowohl während der Konstruktion eines Dialoges als auch zur Laufzeit des Programms verändern. Einige Eigenschaften lassen sich nur während der Laufzeit, andere nur während der Dialogerstellung definieren."
+
+#. vFBh4
+#: control_properties.xhp
+msgctxt ""
+"control_properties.xhp\n"
+"par_id3145749\n"
+"help.text"
+msgid "To change the properties of a control in design mode, right-click the control, and then choose <emph>Properties</emph>."
+msgstr "Um die Eigenschaften von Steuerelementen im Entwurfsmodus zu ändern, rechtsklicken Sie auf ein Steuerelement und wählen Sie im sich öffnenden Kontextmenü <emph>Eigenschaften</emph>."
+
+#. KPeke
+#: create_dialog.xhp
+msgctxt ""
+"create_dialog.xhp\n"
+"tit\n"
+"help.text"
+msgid "Creating a Basic Dialog"
+msgstr "Erstellen eines Basic-Dialogs"
+
+#. MV4Pg
+#: create_dialog.xhp
+msgctxt ""
+"create_dialog.xhp\n"
+"bm_id3149346\n"
+"help.text"
+msgid "<bookmark_value>dialogs;creating Basic dialogs</bookmark_value>"
+msgstr "<bookmark_value>Dialoge; Basic-Dialoge erstellen</bookmark_value>"
+
+#. TKtFE
+#: create_dialog.xhp
+msgctxt ""
+"create_dialog.xhp\n"
+"hd_id3149346\n"
+"help.text"
+msgid "<variable id=\"create_dialog\"><link href=\"text/sbasic/guide/create_dialog.xhp\" name=\"Creating a Basic Dialog\">Creating a Basic Dialog</link></variable>"
+msgstr "<variable id=\"create_dialog\"><link href=\"text/sbasic/guide/create_dialog.xhp\" name=\"Erstellen eines Basic-Dialogs\">Erstellen eines Basic-Dialogs</link></variable>"
+
+#. xBcR4
+#: create_dialog.xhp
+msgctxt ""
+"create_dialog.xhp\n"
+"par_id3163802\n"
+"help.text"
+msgid "Choose <emph>Tools - Macros - Organize Dialogs</emph>, and then click <emph>New</emph>."
+msgstr "Wählen Sie <emph>Extras – Makros – Dialoge verwalten…</emph> und klicken Sie auf <emph>Neu…</emph>."
+
+#. FkRCE
+#: create_dialog.xhp
+msgctxt ""
+"create_dialog.xhp\n"
+"par_id3150447\n"
+"help.text"
+msgid "Enter a name for the dialog and click <emph>OK</emph>. To rename the dialog later, right-click the name on the tab and choose <emph>Rename</emph>."
+msgstr "Geben Sie einen Namen für den Dialog ein und klicken Sie auf <emph>OK</emph>. Um den Dialog später umzubenennen, klicken Sie mit rechts auf den Namen des Registers und wählen <emph>Umbenennen</emph>."
+
+#. qFeYH
+#: create_dialog.xhp
+msgctxt ""
+"create_dialog.xhp\n"
+"par_idN1065F\n"
+"help.text"
+msgid "Click <emph>Edit</emph>. The Basic dialog editor opens and contains a blank dialog."
+msgstr "Klicken Sie auf <emph>Bearbeiten</emph>. Der Basic-Dialog-Editor wird mit einem leeren Dialog geöffnet."
+
+#. To7nC
+#: create_dialog.xhp
+msgctxt ""
+"create_dialog.xhp\n"
+"par_id3153726\n"
+"help.text"
+msgid "If you do not see the <emph>Toolbox</emph> bar, click the arrow next to the <emph>Insert Controls </emph>icon to open the <emph>Toolbox</emph> bar."
+msgstr "Falls die <emph>Werkzeugleiste</emph> nicht sichtbar ist, können Sie diese einblenden, indem Sie auf den Pfeil neben dem Symbol <emph>Steuerelement einfügen</emph> klicken, um die <emph>Werkzeugleiste</emph> einzublenden."
+
+#. cBdmB
+#: create_dialog.xhp
+msgctxt ""
+"create_dialog.xhp\n"
+"par_id3148455\n"
+"help.text"
+msgid "Click a tool and then drag in the dialog to create the control."
+msgstr "Klicken Sie auf ein Werkzeug und zeichnen Sie das gewünschte Steuerelement im Dialog durch Ziehen."
+
+#. 99Bfa
+#: insert_control.xhp
+msgctxt ""
+"insert_control.xhp\n"
+"tit\n"
+"help.text"
+msgid "Creating Controls in the Dialog Editor"
+msgstr "Erstellen von Steuerelementen im Dialog-Editor"
+
+#. yeHTt
+#: insert_control.xhp
+msgctxt ""
+"insert_control.xhp\n"
+"bm_id3149182\n"
+"help.text"
+msgid "<bookmark_value>controls; creating in the dialog editor</bookmark_value><bookmark_value>dialog editor;creating controls</bookmark_value>"
+msgstr "<bookmark_value>Steuerelemente; im Dialog-Editor erstellen</bookmark_value><bookmark_value>Dialog-Editor; Steuerelemente erstellen</bookmark_value>"
+
+#. UAc5k
+#: insert_control.xhp
+msgctxt ""
+"insert_control.xhp\n"
+"hd_id3149182\n"
+"help.text"
+msgid "<variable id=\"insert_control\"><link href=\"text/sbasic/guide/insert_control.xhp\" name=\"Creating Controls in the Dialog Editor\">Creating Controls in the Dialog Editor</link></variable>"
+msgstr "<variable id=\"insert_control\"><link href=\"text/sbasic/guide/insert_control.xhp\" name=\"Erstellen von Steuerelementen im Dialog-Editor\">Erstellen von Steuerelementen im Dialog-Editor</link></variable>"
+
+#. rCdw2
+#: insert_control.xhp
+msgctxt ""
+"insert_control.xhp\n"
+"par_id3146797\n"
+"help.text"
+msgid "Use the tools on the <emph>Toolbox </emph>of the BASIC dialog editor to add controls to your dialog."
+msgstr "Verwenden Sie die Werkzeuge der <emph>Werkzeugleiste</emph> im BASIC-Dialog-Editor, um Ihren Dialog mit Steuerelementen zu versehen."
+
+#. bDK4t
+#: insert_control.xhp
+msgctxt ""
+"insert_control.xhp\n"
+"par_id3150276\n"
+"help.text"
+msgid "To open the <emph>Toolbox</emph>, click the arrow next to the <emph>Insert Controls</emph> icon on the <emph>Macro</emph> toolbar."
+msgstr "Um die <emph>Werkzeugleiste</emph> zu öffnen, klicken Sie in der Symbolleiste <emph>Makro</emph> auf den Pfeil rechts neben dem Symbol <emph>Bedienelemente einfügen</emph>."
+
+#. HAqwy
+#: insert_control.xhp
+msgctxt ""
+"insert_control.xhp\n"
+"par_id3145068\n"
+"help.text"
+msgid "Click a tool on the toolbar, for example, <emph>Button</emph>."
+msgstr "Klicken Sie in der Symbolleiste auf ein Werkzeug, beispielsweise <emph>Schaltfläche</emph>."
+
+#. BxDGH
+#: insert_control.xhp
+msgctxt ""
+"insert_control.xhp\n"
+"par_id3153360\n"
+"help.text"
+msgid "On the dialog, drag the button to the size you want."
+msgstr "Ziehen Sie im Dialog die Schaltfläche auf die gewünschte Größe."
+
+#. ayg6P
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"tit\n"
+"help.text"
+msgid "Programming Examples for Controls in the Dialog Editor"
+msgstr "Programmbeispiele für Steuerelemente im Dialog-Editor"
+
+#. 2mwgE
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"bm_id3155338\n"
+"help.text"
+msgid "<bookmark_value>programming examples for controls</bookmark_value>  <bookmark_value>dialogs;loading (example)</bookmark_value>  <bookmark_value>dialogs;displaying (example)</bookmark_value>  <bookmark_value>controls;reading or editing properties (example)</bookmark_value>  <bookmark_value>list boxes;removing entries from (example)</bookmark_value>  <bookmark_value>list boxes;adding entries to (example)</bookmark_value>  <bookmark_value>examples; programming controls</bookmark_value>  <bookmark_value>dialog editor;programming examples for controls</bookmark_value>  <bookmark_value>Tools;LoadDialog</bookmark_value>"
+msgstr "<bookmark_value>Programmierbeispiele für Steuerelemente</bookmark_value><bookmark_value>Dialoge; laden (Beispiel)</bookmark_value><bookmark_value>Dialoge; anzeigen (Beispiel)</bookmark_value><bookmark_value>Steuerelemente; Eigenschaften lesen oder ändern (Beispiel)</bookmark_value><bookmark_value>Listenfelder; Einträge löschen (Beispiel)</bookmark_value><bookmark_value>Listenfelder; Einträge einfügen (Beispiel)</bookmark_value><bookmark_value>Beispiele; Programmierung von Steuerelementen</bookmark_value><bookmark_value>Dialog-Editor; Programmierbeispiele für Steuerelemente</bookmark_value><bookmark_value>Werkzeuge; LoadDialog</bookmark_value>"
+
+#. XFqTD
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"hd_id3155338\n"
+"help.text"
+msgid "<variable id=\"sample_code\"><link href=\"text/sbasic/guide/sample_code.xhp\" name=\"Programming Examples for Controls in the Dialog Editor\">Programming Examples for Controls in the Dialog Editor</link>   </variable>"
+msgstr "<variable id=\"sample_code\"><link href=\"text/sbasic/guide/sample_code.xhp\" name=\"Programmbeispiele für Steuerelemente im Dialog-Editor\">Programmbeispiele für Steuerelemente im Dialog-Editor</link></variable>"
+
+#. uFxhk
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3153031\n"
+"help.text"
+msgid "The following examples are for a new <link href=\"text/sbasic/guide/create_dialog.xhp\" name=\"dialog\">dialog</link> called \"Dialog1\". Use the tools on the <emph>Toolbox</emph> bar in the dialog editor to create the dialog and add the following controls: a <emph>Check Box</emph> called \"CheckBox1\", a <emph>Label Field</emph> called \"Label1\", a <emph>Button</emph> called \"CommandButton1\", and a <emph>List Box</emph> called \"ListBox1\"."
+msgstr "Um diese Beispiele ausprobieren zu können, brauchen Sie einen neuen <link href=\"text/sbasic/guide/create_dialog.xhp\" name=\"Dialog\">Dialog</link> mit dem Namen \"Dialog1\" anlegen. Im Dialog-Editor legen Sie mithilfe der Schaltflächen in der <emph>Werkzeugleiste</emph> folgende Steuerelemente an: ein <emph>Markierfeld</emph> mit dem Namen \"Markierfeld1\", ein <emph>Beschriftungsfeld</emph> mit dem Namen \"Beschriftung1\", eine <emph>Schaltfläche</emph> mit dem Namen \"Schaltfläche1\" und ein <emph>Listenfeld</emph> mit dem Namen \"Listenfeld1\"."
+
+#. bfDTG
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3154141\n"
+"help.text"
+msgid "Be consistent with uppercase and lowercase letter when you attach a control to an object variable."
+msgstr "Beim Zuweisen des Steuerelements an eine Objektvariable ist die Schreibweise wichtig. Wenn der Name des Steuerelements klein geschrieben wurde, muss dieser auch mit derselben Schreibweise abgefragt werden."
+
+#. TxP4F
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"hd_id3154909\n"
+"help.text"
+msgid "Global Function for Loading Dialogs"
+msgstr "Globale Funktion zum Laden von Dialogen"
+
+#. uCCWG
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3153032\n"
+"help.text"
+msgid "<literal>LoadDialog</literal> function is stored in <literal>Tools.ModuleControls</literal> available from %PRODUCTNAME Macros and Dialogs."
+msgstr "Die Funktion <literal>LoadDialog</literal> ist in der Bibliothek <literal>Tools.ModuleControls</literal> gespeichert, welche im Dialog %PRODUCTNAME Makros verfügbar ist."
+
+#. kBLFU
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"hd_id3149412\n"
+"help.text"
+msgid "Displaying a Dialog"
+msgstr "Dialog anzeigen"
+
+#. E6rrB
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3145801\n"
+"help.text"
+msgid "REM global definition of variables"
+msgstr "REM globale Variablendefiniton"
+
+#. FQCDq
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"hd_id3150042\n"
+"help.text"
+msgid "Read or Edit Properties of Controls in the Program"
+msgstr "Eigenschaften von Steuerelementen im Programm abfragen oder ändern"
+
+#. SahL8
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3145232\n"
+"help.text"
+msgid "REM get dialog model"
+msgstr "REM Model des Dialogs holen"
+
+#. VWD2t
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3154021\n"
+"help.text"
+msgid "REM display text of Label1"
+msgstr "REM Beschriftung des Textes von Beschriftung1 anzeigen"
+
+#. aAmMT
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3151277\n"
+"help.text"
+msgid "REM set new text for control Label1"
+msgstr "REM Neuen Text für das Steuerelement Beschriftung1 setzen"
+
+#. DZEpD
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3154119\n"
+"help.text"
+msgid "oLabel1.Text = \"New Files\""
+msgstr "oLabel1.Text = \"New Files\""
+
+#. 5uRRo
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3155115\n"
+"help.text"
+msgid "REM display model properties for the control CheckBox1"
+msgstr "REM Anzeigen der Model-Eigenschaften des Steuerelements Markierfeld1"
+
+#. 9FejL
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3149817\n"
+"help.text"
+msgid "REM set new state for CheckBox1 for model of control"
+msgstr "REM Neuen State für Markierfeld1 am Model des Steuerelements setzen"
+
+#. JkUUZ
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3159102\n"
+"help.text"
+msgid "REM display model properties for control CommandButton1"
+msgstr "REM Anzeigen der Model-Eigenschaften für das Steuerelement Schaltfläche1"
+
+#. vS9pR
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3150368\n"
+"help.text"
+msgid "REM display properties of control CommandButton1"
+msgstr "REM Anzeigen der Eigenschaften des Steuerelements Schaltfläche1"
+
+#. CVE7H
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3150201\n"
+"help.text"
+msgid "REM execute dialog"
+msgstr "REM Dialog ausführen"
+
+#. EFJQU
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"hd_id3145387\n"
+"help.text"
+msgid "Add an Entry to a ListBox"
+msgstr "Eintrag in ein Listenfeld hinzufügen"
+
+#. JUfaR
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3148700\n"
+"help.text"
+msgid "REM adds a new entry to the ListBox"
+msgstr "REM setzt einen neuen Eintrag in das Listenfeld"
+
+#. A2XGR
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3144504\n"
+"help.text"
+msgid "oListbox.additem(\"New Item\" & iCount,0)"
+msgstr "oListbox.additem(\"New Item\" & iCount,0)"
+
+#. FKzdb
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"hd_id3147071\n"
+"help.text"
+msgid "Remove an Entry from a ListBox"
+msgstr "Eintrag in eines Listenfeldes löschen"
+
+#. CmCcv
+#: sample_code.xhp
+msgctxt ""
+"sample_code.xhp\n"
+"par_id3153247\n"
+"help.text"
+msgid "REM remove the first entry from the ListBox"
+msgstr "REM löscht den ersten Eintrag aus dem Listenfeld"
+
+#. EYDQU
+#: show_dialog.xhp
+msgctxt ""
+"show_dialog.xhp\n"
+"tit\n"
+"help.text"
+msgid "Opening a Dialog With Basic"
+msgstr "Einen Dialog mit Basic öffnen"
+
+#. biDaS
+#: show_dialog.xhp
+msgctxt ""
+"show_dialog.xhp\n"
+"bm_id3154140\n"
+"help.text"
+msgid "<bookmark_value>module/dialog toggle</bookmark_value>   <bookmark_value>dialogs;using Basic to show (example)</bookmark_value>   <bookmark_value>examples; showing a dialog with Basic</bookmark_value>   <bookmark_value>Tools;LoadDialog</bookmark_value>"
+msgstr "<bookmark_value>Module/Dialoge umschalten</bookmark_value><bookmark_value>Dialoge; Programmcode zum Anzeigen verwenden (Beispiel)</bookmark_value><bookmark_value>Beispiele; einen Dialog mithilfe von Programmcode anzeigen</bookmark_value><bookmark_value>Werkzeuge; Dialoge laden</bookmark_value>"
+
+#. 7KfDE
+#: show_dialog.xhp
+msgctxt ""
+"show_dialog.xhp\n"
+"hd_id3154140\n"
+"help.text"
+msgid "<variable id=\"show_dialog\"><link href=\"text/sbasic/guide/show_dialog.xhp\" name=\"Opening a Dialog With Basic\">Opening a Dialog With Basic</link></variable>"
+msgstr "<variable id=\"show_dialog\"><link href=\"text/sbasic/guide/show_dialog.xhp\" name=\"Öffnen eines Dialogs mit Basic\">Öffnen eines Dialogs mit Basic</link></variable>"
+
+#. PXLvB
+#: show_dialog.xhp
+msgctxt ""
+"show_dialog.xhp\n"
+"par_id3145171\n"
+"help.text"
+msgid "In the <item type=\"productname\">%PRODUCTNAME</item> BASIC window for a dialog that you created, leave the dialog editor by clicking the name tab of the Module that the dialog is assigned to. The name tab is at the bottom of the window."
+msgstr "Nachdem Sie einen Dialog erzeugt haben, möchten Sie diesen Dialog nun in Ihren Programmcode einbinden. Sie befinden sich noch im Dialog-Editor und müssen zunächst wieder in die <item type=\"productname\">%PRODUCTNAME</item> Basic-IDE gelangen."
+
+#. SyMUQ
+#: show_dialog.xhp
+msgctxt ""
+"show_dialog.xhp\n"
+"par_id3153968\n"
+"help.text"
+msgid "Enter the following code for a subroutine called <emph>Dialog1Show</emph>. In this example, the name of the dialog that you created is \"Dialog1\":"
+msgstr "Erzeugen Sie eine Unterroutine mit dem Namen <emph>Dialog1Show</emph>. In diesem Beispiel ist der Name des Dialoges, den Sie erstellt haben, \"Dialog1\":"
+
+#. ytWYo
+#: show_dialog.xhp
+msgctxt ""
+"show_dialog.xhp\n"
+"par_id3152596\n"
+"help.text"
+msgid "Without using \"LoadDialog\" you can call the code as follows:"
+msgstr "Ohne \"LoadDialog\" können Sie den Code wie folgt aufrufen:"
+
+#. DtP6k
+#: show_dialog.xhp
+msgctxt ""
+"show_dialog.xhp\n"
+"par_id3153157\n"
+"help.text"
+msgid "When you execute this code, \"Dialog1\" opens. To close the dialog, click the close button (x) on its title bar."
+msgstr "Wenn Sie diesen Code ausführen, erscheint \"Dialog1\". Um den Dialog zu schließen, klicken Sie auf die Schaltfläche Schließen (x) auf der Titelleiste."
+
+#. s79uv
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"tit\n"
+"help.text"
+msgid "Translation of Controls in the Dialog Editor"
+msgstr "Übersetzung der Steuerelemente im Dialog-Editor"
+
+#. 76okP
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"bm_id8915372\n"
+"help.text"
+msgid "<bookmark_value>dialogs;translating</bookmark_value><bookmark_value>localizing dialogs</bookmark_value><bookmark_value>translating dialogs</bookmark_value>"
+msgstr "<bookmark_value>Dialoge; übersetzen</bookmark_value><bookmark_value>Dialoge lokalisieren</bookmark_value><bookmark_value>Übersetzen von Dialogen</bookmark_value>"
+
+#. cTb7F
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"hd_id3574896\n"
+"help.text"
+msgid "<variable id=\"translation\"><link href=\"text/sbasic/guide/translation.xhp\">Translation of Controls in the Dialog Editor</link></variable>"
+msgstr "<variable id=\"translation\"><link href=\"text/sbasic/guide/translation.xhp\">Übersetzen der Steuerelemente im Dialog-Editor</link></variable>"
+
+#. FsUBB
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id4601940\n"
+"help.text"
+msgid "The Language toolbar in the Basic IDE dialog editor shows controls to enable and manage localizable dialogs."
+msgstr "Die Symbolleiste Sprache im Basic-IDE-Dialog-Editor zeigt Steuerelemente, mit denen lokalisierte Dialoge aktiviert und verwaltet werden können."
+
+#. eGsqR
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id9538560\n"
+"help.text"
+msgid "By default, any dialog that you create only contains string resources for one language. You may want to create dialogs that automatically show localized strings according to the user's language settings."
+msgstr "Standardmäßig enthält jeder erstellte Dialog Sprachressourcen für nur eine Sprache. Sie können aber auch Dialoge erstellen, die entsprechend der Spracheinstellung des Benutzers lokalisierte Texte anzeigen."
+
+#. DP4Qb
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id6998809\n"
+"help.text"
+msgid "<ahelp hid=\".\" visibility=\"hidden\">Select the language for the strings that you want to edit. Click the Manage Languages icon to add languages.</ahelp>"
+msgstr "<ahelp hid=\".\" visibility=\"hidden\">Wählen Sie die Sprache der zu bearbeitenden Texte aus. Klicken Sie zum Hinzufügen von Sprachen auf das Symbol Sprache verwalten.</ahelp>"
+
+#. KQ48Z
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id71413\n"
+"help.text"
+msgid "<ahelp hid=\".\" visibility=\"hidden\">Click a language, then click Default to set the language as default, or click Delete to remove the language from the list.</ahelp>"
+msgstr "<ahelp hid=\".\" visibility=\"hidden\">Klicken Sie auf eine Sprache und anschließend auf Standard, um die Sprache als Standard zu setzen. Klicken Sie auf Löschen, um die Sprache aus der Liste zu entfernen.</ahelp>"
+
+#. gGdez
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id2924283\n"
+"help.text"
+msgid "<ahelp hid=\".\" visibility=\"hidden\">Opens a dialog where you can add a language to the list.</ahelp>"
+msgstr "<ahelp hid=\".\" visibility=\"hidden\">Öffnet einen Dialog, in dem Sie eine Sprache der Liste hinzufügen können.</ahelp>"
+
+#. VtLMy
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id5781731\n"
+"help.text"
+msgid "<ahelp hid=\".\" visibility=\"hidden\">Select a language in the list and click Delete to remove that language. When you remove all languages, the string resources for localizable dialogs are removed from all dialogs in the current library.</ahelp>"
+msgstr "<ahelp hid=\".\" visibility=\"hidden\">Wählen Sie eine Sprache in der Liste aus und klicken Sie auf Löschen, um diese Sprache zu entfernen. Wenn Sie alle Sprachen entfernen, werden die Sprachressourcen für alle Dialoge in der aktuellen Bibliothek entfernt.</ahelp>"
+
+#. UyizF
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id6942045\n"
+"help.text"
+msgid "<ahelp hid=\".\" visibility=\"hidden\">Select a language in the list and click Default to set the language as default language.</ahelp>"
+msgstr "<ahelp hid=\".\" visibility=\"hidden\">Wählen Sie eine Sprache in der Liste aus und klicken Sie auf Standard, um diese Sprache als Standardsprache zu setzen.</ahelp>"
+
+#. VaSvA
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id4721823\n"
+"help.text"
+msgid "<ahelp hid=\".\" visibility=\"hidden\">The default language will be used as a source for all other language strings.</ahelp>"
+msgstr "<ahelp hid=\".\" visibility=\"hidden\">Die Standardsprache wird als Quelle für die Texte aller anderen Sprachen genutzt.</ahelp>"
+
+#. bJz7U
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id5806756\n"
+"help.text"
+msgid "<ahelp hid=\".\" visibility=\"hidden\">Add UI languages for your dialog strings.</ahelp>"
+msgstr "<ahelp hid=\".\" visibility=\"hidden\">Fügen Sie Benutzerschnittstellensprachen für Ihre Dialogtexte hinzu.</ahelp>"
+
+#. Aa3HD
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"hd_id6596881\n"
+"help.text"
+msgid "To enable localizable dialogs"
+msgstr "So verwenden Sie lokalisierbare Dialoge"
+
+#. uS4tc
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id8750572\n"
+"help.text"
+msgid "In the Basic IDE dialog editor, open the Language toolbar choosing <item type=\"menuitem\">View - Toolbars - Language</item>."
+msgstr "Öffnen Sie im Basic-IDE-Dialog-Editor die Symbolleiste Sprache, indem Sie <item type=\"menuitem\">Ansicht – Symbolleisten – Sprache</item> wählen."
+
+#. df3mU
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id2224494\n"
+"help.text"
+msgid "If the current library already contains a localizable dialog, the Language toolbar is shown automatically."
+msgstr "Wenn eine aktuelle Bibliothek bereits einen lokalisierbaren Dialog enthält, wird die Symbolleiste Sprache automatisch angezeigt."
+
+#. 8TG4p
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id7359233\n"
+"help.text"
+msgid "Click the <emph>Manage Languages</emph> icon<image id=\"img_id2526017\" src=\"cmd/sc_managelanguage.png\" width=\"0.1665inch\" height=\"0.1665inch\"><alt id=\"alt_id2526017\">Manage Language icon</alt></image> on the Language toolbar or on the Toolbox bar."
+msgstr "Klicken Sie auf das Symbol <emph>Sprache verwalten</emph> <image id=\"img_id2526017\" src=\"cmd/sc_managelanguage.png\" width=\"0.1665inch\" height=\"0.1665inch\"><alt id=\"alt_id2526017\">Symbol Sprache verwalten</alt></image> in der Symbolleiste Sprache oder in der Werkzeugleiste."
+
+#. MHDVd
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id6549272\n"
+"help.text"
+msgid "You see the Manage User Interface Language dialog. The dialog manages languages for the current library. The name of the current library is shown on the title bar."
+msgstr "Sie sehen den Dialog zum Verwalten der Sprachen der Benutzerschnittstelle. Der Dialog verwaltet die Sprachen der aktuellen Bibliothek. Der Name der aktuellen Bibliothek wird in der Titelleiste angezeigt."
+
+#. AbvXT
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id6529740\n"
+"help.text"
+msgid "Click Add in the dialog to add a language entry."
+msgstr "Klicken Sie im Dialog auf Hinzufügen, um einen Spracheintrag hinzuzufügen."
+
+#. xFFkk
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id7811822\n"
+"help.text"
+msgid "This step enables all new dialogs to contain localizable string resources."
+msgstr "Mit diesem Schritt ermöglichen Sie Sprachressourcen für alle neuen Dialoge."
+
+#. 3FvoR
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id9121982\n"
+"help.text"
+msgid "The first time you click Add, you see the Set Default User Interface Language dialog. The following times you click Add, this dialog has the name Add User Interface Language."
+msgstr "Wenn Sie erstmalig auf Hinzufügen klicken, sehen Sie den Dialog Standardsprache für Benutzerschnittstelle festlegen. Wenn Sie die folgenden Male auf Hinzufügen klicken, hat dieser Dialog den Namen Sprachen zur Benutzerschnittstelle hinzufügen."
+
+#. iPpFn
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id3640247\n"
+"help.text"
+msgid "You can also change the default language in the Manage User Interface Language dialog."
+msgstr "Sie können auch die Standardsprache im Dialog zum Verwalten der Sprachen der Benutzerschnittstelle ändern."
+
+#. LBJMN
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id3808404\n"
+"help.text"
+msgid "Select a language."
+msgstr "Wählen Sie eine Sprache aus."
+
+#. EzFFM
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id4585100\n"
+"help.text"
+msgid "This adds string resources to contain the translated versions of all strings to the dialog properties. The set of dialog strings of the default language is copied to the new set of strings. Later, you can switch to the new language and then translate the strings."
+msgstr "Hiermit fügen Sie Sprachressourcen, welche die übersetzten Versionen aller Texte enthalten, zu den Dialog-Eigenschaften hinzu. Alle Texte der Standardsprache werden in die neue Sprachressourcen kopiert. Später können Sie zu der neuen Sprache umschalten und dann die Zeichenketten übersetzen."
+
+#. cfjJ8
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id2394482\n"
+"help.text"
+msgid "Close the dialog or add additional languages."
+msgstr "Schließen Sie den Dialog oder fügen Sie weitere Sprachen hinzu."
+
+#. B5tJ2
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"hd_id631733\n"
+"help.text"
+msgid "To edit localizable controls in your dialog"
+msgstr "So bearbeiten Sie lokalisierbare Steuerelemente in Ihrem Dialog"
+
+#. hrvxW
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id2334665\n"
+"help.text"
+msgid "Once you have added the resources for localizable strings in your dialogs, you can select the current language from the Current Language listbox on the Language toolbar."
+msgstr "Nachdem Sie Ihren Dialogen Sprachressourcen hinzugefügt haben, können Sie die aktuelle Sprache aus dem Listenfeld Aktuelle Sprache in der Symbolleiste Sprache auswählen."
+
+#. igvyu
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id8956572\n"
+"help.text"
+msgid "Switch the Current Language listbox to display the default language."
+msgstr "Wählen Sie die Standardsprache im Listenfeld Aktuelle Sprache."
+
+#. N6mRS
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id500808\n"
+"help.text"
+msgid "Insert any number of controls to your dialog and enter all strings you want."
+msgstr "Fügen Sie eine beliebige Anzahl an Steuerelementen in Ihren Dialog ein und geben Sie alle gewünschten Texte ein."
+
+#. CWNb6
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id8366649\n"
+"help.text"
+msgid "Select another language in the Current Language listbox."
+msgstr "Wählen Sie eine andere Sprache in dem Listenfeld Aktuelle Sprache aus."
+
+#. x82BH
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id476393\n"
+"help.text"
+msgid "Using the control's property dialogs, edit all strings to the other language."
+msgstr "Verwenden Sie den Dialog Eigenschaften für Steuerelemente, um alle Texte in der anderen Sprache zu bearbeiten."
+
+#. C5qAe
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id2655720\n"
+"help.text"
+msgid "Repeat for all languages that you added."
+msgstr "Wiederholen Sie dies für alle hinzugefügten Sprachen."
+
+#. GXnCr
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id3682058\n"
+"help.text"
+msgid "The user of your dialog will see the strings of the user interface language of the user's version of %PRODUCTNAME, if you did provide strings in that language."
+msgstr "Der Nutzer Ihres Dialogs wird die Texte in der Sprache der Benutzerschnittstelle seiner Version von %PRODUCTNAME sehen, falls Sie die Texte in dieser Sprache zur Verfügung stellen."
+
+#. BGLJn
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id5977965\n"
+"help.text"
+msgid "If no language matches the user's version, the user will see the default language strings."
+msgstr "Falls keine Sprache zur Version des Nutzers passt, wird der Nutzer die Texte in der Standardsprache sehen."
+
+#. ckw8S
+#: translation.xhp
+msgctxt ""
+"translation.xhp\n"
+"par_id3050325\n"
+"help.text"
+msgid "If the user has an older version of %PRODUCTNAME that does not know localizable string resources for Basic dialogs, the user will see the default language strings."
+msgstr "Wenn der Nutzer eine ältere Version von %PRODUCTNAME verwendet, welche Sprachressourcen für Basic Dialoge nicht kennt, sieht der Nutzer die Texte in der Standardsprache."
