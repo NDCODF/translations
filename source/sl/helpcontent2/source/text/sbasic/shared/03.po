@@ -1,0 +1,634 @@
+#. extracted from helpcontent2/source/text/sbasic/shared/03
+msgid ""
+msgstr ""
+"Project-Id-Version: LibreOffice 7.1\n"
+"Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
+"POT-Creation-Date: 2020-10-23 20:32+0200\n"
+"PO-Revision-Date: 2020-10-23 15:32+0200\n"
+"Last-Translator: Martin Srebotnjak <miles@filmsi.net>\n"
+"Language-Team: sl.libreoffice.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"X-Accelerator-Marker: ~\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Project-Style: openoffice\n"
+
+#: lib_depot.xhp
+msgctxt ""
+"lib_depot.xhp\n"
+"tit\n"
+"help.text"
+msgid "DEPOT Library"
+msgstr "Knjižnica DEPOT"
+
+#: lib_depot.xhp
+msgctxt ""
+"lib_depot.xhp\n"
+"hd_id31529004750471\n"
+"help.text"
+msgid "<variable id=\"depot_lib\"><link href=\"text/sbasic/shared/03/lib_depot.xhp\" name=\"Depot library\">The <item type=\"literal\">Depot</item> Library</link></variable>"
+msgstr "<variable id=\"depot_lib\"><link href=\"text/sbasic/shared/03/lib_depot.xhp\" name=\"Knjižnica Depot\">Knjižnica <item type=\"literal\">Depot</item></link></variable>"
+
+#: lib_euro.xhp
+msgctxt ""
+"lib_euro.xhp\n"
+"tit\n"
+"help.text"
+msgid "EURO Library"
+msgstr "Knjižnica EURO"
+
+#: lib_euro.xhp
+msgctxt ""
+"lib_euro.xhp\n"
+"hd_id31529004750471\n"
+"help.text"
+msgid "<variable id=\"euro_lib\"><link href=\"text/sbasic/shared/03/lib_euro.xhp\" name=\"Euro library\">The <item type=\"literal\">Euro</item> Library</link></variable>"
+msgstr "<variable id=\"euro_lib\"><link href=\"text/sbasic/shared/03/lib_euro.xhp\" name=\"Knjižnica Euro\">Knjižnica <item type=\"literal\">Euro</item></link></variable>"
+
+#: lib_euro.xhp
+msgctxt ""
+"lib_euro.xhp\n"
+"bm_id231529070133574\n"
+"help.text"
+msgid "<bookmark_value>BASIC Euro library</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC Euro</bookmark_value>"
+
+#: lib_euro.xhp
+msgctxt ""
+"lib_euro.xhp\n"
+"hd_id841593518085848\n"
+"help.text"
+msgid "Description"
+msgstr "Opis"
+
+#: lib_euro.xhp
+msgctxt ""
+"lib_euro.xhp\n"
+"par_id921593518140986\n"
+"help.text"
+msgid "The <emph>Euro</emph> library is used by the <emph>Euro converter…</emph> wizard."
+msgstr "Knjižnico <emph>Euro</emph> uporablja čarovnik <emph>Pretvornik za Evro</emph>."
+
+#: lib_euro.xhp
+msgctxt ""
+"lib_euro.xhp\n"
+"par_id481593518247400\n"
+"help.text"
+msgid "Its entry points are:"
+msgstr "Do njega dostopate na naslednje načine:"
+
+#: lib_euro.xhp
+msgctxt ""
+"lib_euro.xhp\n"
+"par_id381593519742529\n"
+"help.text"
+msgid "Selecting the <emph>Euro Converter…</emph> wizard loads the following libraries in memory:"
+msgstr "Če izberete čarovnika <emph>Pretvornik za Evro</emph>, se v pomnilnik naložijo naslednje knjižnice:"
+
+#: lib_euro.xhp
+msgctxt ""
+"lib_euro.xhp\n"
+"par_id691593519646426\n"
+"help.text"
+msgid "Basic routine name conflicts may exist when multiple Basic libraries are loaded in memory."
+msgstr "Spori glede imen podprogramov ali ukazov Basica lahko nastopijo, če je v pomnilnik naloženih več knjižnic Basic."
+
+#: lib_euro.xhp
+msgctxt ""
+"lib_euro.xhp\n"
+"par_id1001593520257636\n"
+"help.text"
+msgid "ImportWizard and <link href=\"text/sbasic/shared/03/lib_tools.xhp\" name=\"Tools library\">Tools</link> Basic libraries"
+msgstr "Knjižnici ImportWizard in <link href=\"text/sbasic/shared/03/lib_tools.xhp\" name=\"Knjižnica Tools\">Tools</link>"
+
+#: lib_euro.xhp
+msgctxt ""
+"lib_euro.xhp\n"
+"par_id251593518523704\n"
+"help.text"
+msgid "<link href=\"text/shared/autopi/01150000.xhp\" name=\"Euro Converter Wizard\">Euro Converter Wizard</link> describes what the <emph>Euro</emph> library does."
+msgstr "Stran <link href=\"text/shared/autopi/01150000.xhp\" name=\"Čarovnik Evro-pretvornik\">Čarovnik Evro-pretvornik</link> opisuje, kaj počne knjižnica <emph>Euro</emph>."
+
+#: lib_formwizard.xhp
+msgctxt ""
+"lib_formwizard.xhp\n"
+"tit\n"
+"help.text"
+msgid "FORMWIZARD Library"
+msgstr "Knjižnica FORMWIZARD"
+
+#: lib_formwizard.xhp
+msgctxt ""
+"lib_formwizard.xhp\n"
+"hd_id31529004750471\n"
+"help.text"
+msgid "<variable id=\"formwizard_lib\"><link href=\"text/sbasic/shared/03/lib_formwizard.xhp\" name=\"FormWizard library\">The <item type=\"literal\">FormWizard</item> Library</link></variable>"
+msgstr "<variable id=\"formwizard_lib\"><link href=\"text/sbasic/shared/03/lib_formwizard.xhp\" name=\"Knjižnica FormWizard\">Knjižnica <item type=\"literal\">FormWizard</item></link></variable>"
+
+#: lib_gimmicks.xhp
+msgctxt ""
+"lib_gimmicks.xhp\n"
+"tit\n"
+"help.text"
+msgid "GIMMICKS Library"
+msgstr "Knjižnica GIMMICKS"
+
+#: lib_gimmicks.xhp
+msgctxt ""
+"lib_gimmicks.xhp\n"
+"hd_id31529004750471\n"
+"help.text"
+msgid "<variable id=\"gimmicks_lib\"><link href=\"text/sbasic/shared/03/lib_gimmicks.xhp\" name=\"Gimmicks library\">The <item type=\"literal\">Gimmicks</item> Library</link></variable>"
+msgstr "<variable id=\"gimmicks_lib\"><link href=\"text/sbasic/shared/03/lib_gimmicks.xhp\" name=\"Knjižnica Gimmicks\">Knjižnica <item type=\"literal\">Gimmicks</item></link></variable>"
+
+#: lib_gimmicks.xhp
+msgctxt ""
+"lib_gimmicks.xhp\n"
+"bm_id951529070357301\n"
+"help.text"
+msgid "<bookmark_value>BASIC Gimmicks library</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC Gimmicks</bookmark_value>"
+
+#: lib_importwiz.xhp
+msgctxt ""
+"lib_importwiz.xhp\n"
+"tit\n"
+"help.text"
+msgid "ImportWizard Library"
+msgstr "Knjižnica ImportWizard"
+
+#: lib_importwiz.xhp
+msgctxt ""
+"lib_importwiz.xhp\n"
+"hd_id31529004750471\n"
+"help.text"
+msgid "<variable id=\"importwiz_lib\"><link href=\"text/sbasic/shared/03/lib_importwiz.xhp\" name=\"ImportWizard library\">The <item type=\"literal\">ImportWizard</item> Library</link></variable>"
+msgstr "<variable id=\"importwiz_lib\"><link href=\"text/sbasic/shared/03/lib_importwiz.xhp\" name=\"Knjižnica ImportWizard\">Knjižnica <item type=\"literal\">ImportWizard</item></link></variable>"
+
+#: lib_importwiz.xhp
+msgctxt ""
+"lib_importwiz.xhp\n"
+"bm_id231529070133574\n"
+"help.text"
+msgid "<bookmark_value>BASIC ImportWizard library</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC ImportWizard</bookmark_value>"
+
+#: lib_importwiz.xhp
+msgctxt ""
+"lib_importwiz.xhp\n"
+"hd_id841593518085848\n"
+"help.text"
+msgid "Description"
+msgstr "Opis"
+
+#: lib_importwiz.xhp
+msgctxt ""
+"lib_importwiz.xhp\n"
+"par_id921593518140986\n"
+"help.text"
+msgid "The <emph>ImportWizard</emph> library is used by the <emph>Document converter...</emph> wizard."
+msgstr "Knjižnico <emph>ImportWizard</emph> uporablja čarovnik <emph>Pretvornik dokumentov</emph>."
+
+#: lib_importwiz.xhp
+msgctxt ""
+"lib_importwiz.xhp\n"
+"par_id481593518247400\n"
+"help.text"
+msgid "Its entry point is:"
+msgstr "Do njega dostopate na naslednji način:"
+
+#: lib_importwiz.xhp
+msgctxt ""
+"lib_importwiz.xhp\n"
+"par_id381593519742529\n"
+"help.text"
+msgid "Selecting the <emph>Document Converter...</emph> wizard loads the following libraries in memory:"
+msgstr "Če izberete čarovnika <emph>Pretvornik dokumentov</emph>, se v pomnilnik naložijo naslednje knjižnice:"
+
+#: lib_importwiz.xhp
+msgctxt ""
+"lib_importwiz.xhp\n"
+"par_id691593519646426\n"
+"help.text"
+msgid "Basic routine name conflicts may exist when multiple Basic libraries are loaded in memory."
+msgstr "Spori glede imen podprogramov ali ukazov Basica lahko nastopijo, če je v pomnilnik naloženih več knjižnic Basic."
+
+#: lib_importwiz.xhp
+msgctxt ""
+"lib_importwiz.xhp\n"
+"par_id1001593520257636\n"
+"help.text"
+msgid "<link href=\"text/sbasic/shared/03/lib_tools.xhp\" name=\"Tools library\">Tools</link> Basic library"
+msgstr "Knjižnica Basic <link href=\"text/sbasic/shared/03/lib_tools.xhp\" name=\"Knjižnica Tools\">Tools</link>"
+
+#: lib_importwiz.xhp
+msgctxt ""
+"lib_importwiz.xhp\n"
+"par_id251593518523704\n"
+"help.text"
+msgid "<link href=\"text/shared/autopi/01130000.xhp\" name=\"Document Converter\">Document Converter</link> describes what the <emph>ImportWizard</emph> library does."
+msgstr "Stran <link href=\"text/shared/autopi/01130000.xhp\" name=\"Pretvornik dokumentov\">Pretvornik Dokumentov</link> opisuje, kaj počne knjižnica <emph>ImportWizard</emph>."
+
+#: lib_schedule.xhp
+msgctxt ""
+"lib_schedule.xhp\n"
+"tit\n"
+"help.text"
+msgid "SCHEDULE Library"
+msgstr "Knjižnica SCHEDULE"
+
+#: lib_schedule.xhp
+msgctxt ""
+"lib_schedule.xhp\n"
+"hd_id31529004750471\n"
+"help.text"
+msgid "<variable id=\"schedule_lib\"><link href=\"text/sbasic/shared/03/lib_schedule.xhp\" name=\"Schedule library\">The <item type=\"literal\">Schedule</item> Library</link></variable>"
+msgstr "<variable id=\"schedule_lib\"><link href=\"text/sbasic/shared/03/lib_schedule.xhp\" name=\"Knjižnica Schedule\">Knjižnica <item type=\"literal\">Schedule</item></link></variable>"
+
+#: lib_schedule.xhp
+msgctxt ""
+"lib_schedule.xhp\n"
+"bm_id671529070099646\n"
+"help.text"
+msgid "<bookmark_value>BASIC Schedule library</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC Schedule</bookmark_value>"
+
+#: lib_script.xhp
+msgctxt ""
+"lib_script.xhp\n"
+"tit\n"
+"help.text"
+msgid "SCRIPTBINDINGLIBRARY Library"
+msgstr "Knjižnica SCRIPTBINDINGLIBRARY"
+
+#: lib_script.xhp
+msgctxt ""
+"lib_script.xhp\n"
+"hd_id31529004750471\n"
+"help.text"
+msgid "<variable id=\"script_lib\"><link href=\"text/sbasic/shared/03/lib_script.xhp\" name=\"ScriptBindingLibrary library\">The <item type=\"literal\">ScriptBindingLibrary</item> Library</link></variable>"
+msgstr "<variable id=\"script_lib\"><link href=\"text/sbasic/shared/03/lib_script.xhp\" name=\"Knjižnica ScriptBindingLibrary\">Knjižnica <item type=\"literal\">ScriptBindingLibrary</item></link></variable>"
+
+#: lib_script.xhp
+msgctxt ""
+"lib_script.xhp\n"
+"bm_id851529070366056\n"
+"help.text"
+msgid "<bookmark_value>BASIC ScriptBindingLibrary library</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC ScriptBindingLibrary</bookmark_value>"
+
+#: lib_script.xhp
+msgctxt ""
+"lib_script.xhp\n"
+"hd_id841593518085848\n"
+"help.text"
+msgid "Description"
+msgstr "Opis"
+
+#: lib_script.xhp
+msgctxt ""
+"lib_script.xhp\n"
+"par_id921593518140986\n"
+"help.text"
+msgid "The <emph>ScriptBindingLibrary</emph> library only contains dialogs, it is used by <emph>Highlight</emph> %PRODUCTNAME example scripts. Its dialogs are shared by Beanshell, Java and JavaScript example scripts."
+msgstr "Knjižnica <emph>ScriptBindingLibrary</emph> vsebuje le pogovorna okna; uporabljajo jo primeri skriptov %PRODUCTNAME, <emph>Highlight</emph>. Njena pogovorna okna uporabljajo primeri skriptov v jezikih Beanshell, Java in JavaScript."
+
+#: lib_script.xhp
+msgctxt ""
+"lib_script.xhp\n"
+"par_id381593519742529\n"
+"help.text"
+msgid "Running any <emph>Highlight</emph> example script loads the <emph>ScriptBindingLibrary</emph> library in memory."
+msgstr "Ko zaženete enega od primerov skriptov <emph>Highlight</emph>, se knjižnica <emph>ScriptBindingLibrary</emph> naloži v pomnilnik."
+
+#: lib_script.xhp
+msgctxt ""
+"lib_script.xhp\n"
+"par_id131593538122154\n"
+"help.text"
+msgid "This library is not used by %PRODUCTNAME Basic."
+msgstr "Te knjižnice %PRODUCTNAME Basic ne uporablja."
+
+#: lib_script.xhp
+msgctxt ""
+"lib_script.xhp\n"
+"par_id251593524531077\n"
+"help.text"
+msgid "<link href=\"text/shared/01/06130020.xhp\" name=\"Basic macro selector\">Basic macro selector</link>"
+msgstr "<link href=\"text/shared/01/06130020.xhp\" name=\"Izbirnik makrov Basic\">Izbirnik makrov Basic</link>"
+
+#: lib_script.xhp
+msgctxt ""
+"lib_script.xhp\n"
+"par_id721593525163663\n"
+"help.text"
+msgid "Beanshell, Java and JavaScript <link href=\"text/shared/01/06130030.xhp\" name=\"Scripts\">Scripts</link>"
+msgstr "<link href=\"text/shared/01/06130030.xhp\" name=\"Skripti\">Skripti</link> Beanshell, Java in JavaScript"
+
+#: lib_template.xhp
+msgctxt ""
+"lib_template.xhp\n"
+"tit\n"
+"help.text"
+msgid "TEMPLATE Library"
+msgstr "Knjižnica TEMPLATE"
+
+#: lib_template.xhp
+msgctxt ""
+"lib_template.xhp\n"
+"hd_id31529004750471\n"
+"help.text"
+msgid "<variable id=\"template_lib\"><link href=\"text/sbasic/shared/03/lib_template.xhp\" name=\"Template library\">The <item type=\"literal\">Template</item> Library</link></variable>"
+msgstr "<variable id=\"template_lib\"><link href=\"text/sbasic/shared/03/lib_template.xhp\" name=\"Knjižnica Template\">Knjižnica <item type=\"literal\">Template</item></link></variable>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"tit\n"
+"help.text"
+msgid "Tools Library"
+msgstr "Knjižnica Tools"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"hd_id31529004750471\n"
+"help.text"
+msgid "<variable id=\"tools_lib\"><link href=\"text/sbasic/shared/03/lib_tools.xhp\" name=\"Tools library\">The <item type=\"literal\">Tools</item> Library</link></variable>"
+msgstr "<variable id=\"tools_lib\"><link href=\"text/sbasic/shared/03/lib_tools.xhp\" name=\"Knjižnica Tools\">Knjižnica <item type=\"literal\">Tools</item></link></variable>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"bm_id491529070339774\n"
+"help.text"
+msgid "<bookmark_value>BASIC Tools library</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC Tools</bookmark_value>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id161529001339405\n"
+"help.text"
+msgid "<link href=\"text/sbasic/shared/03/lib_tools.xhp#debug_module\" name=\"debug module\"><item type=\"literal\">Debug</item> Module</link>"
+msgstr "<link href=\"text/sbasic/shared/03/lib_tools.xhp#debug_module\" name=\"Modul Debug\">Modul <item type=\"literal\">Debug</item></link>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id41529001348561\n"
+"help.text"
+msgid "<link href=\"text/sbasic/shared/03/lib_tools.xhp#listbox_module\" name=\"listbox module\"><item type=\"literal\">ListBox</item> Module</link>"
+msgstr "<link href=\"text/sbasic/shared/03/lib_tools.xhp#listbox_module\" name=\"Modul ListBox\">Modul <item type=\"literal\">ListBox</item></link>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id341529001354451\n"
+"help.text"
+msgid "<link href=\"text/sbasic/shared/03/lib_tools.xhp#misc_module\" name=\"misc module\"><item type=\"literal\">Misc</item> Module</link>"
+msgstr "<link href=\"text/sbasic/shared/03/lib_tools.xhp#misc_module\" name=\"Modul Misc\">Modul <item type=\"literal\">Misc</item></link>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id311529001362049\n"
+"help.text"
+msgid "<link href=\"text/sbasic/shared/03/lib_tools.xhp#modulecontrols_module\" name=\"module controls module\"><item type=\"literal\">ModuleControls</item> Module</link>"
+msgstr "<link href=\"text/sbasic/shared/03/lib_tools.xhp#modulecontrols_module\" name=\"Modul ModuleControls\">Modul <item type=\"literal\">ModuleControls</item></link>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id701529001368064\n"
+"help.text"
+msgid "<link href=\"text/sbasic/shared/03/lib_tools.xhp#strings_module\" name=\"strings module\"><item type=\"literal\">Strings</item> Module</link>"
+msgstr "<link href=\"text/sbasic/shared/03/lib_tools.xhp#strings_module\" name=\"Modul Strings\">Modul <item type=\"literal\">Strings</item></link>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id251529001373426\n"
+"help.text"
+msgid "<link href=\"text/sbasic/shared/03/lib_tools.xhp#ucb_module\" name=\"ucb module\"><item type=\"literal\">UCB</item> Module</link>"
+msgstr "<link href=\"text/sbasic/shared/03/lib_tools.xhp#ucb_module\" name=\"Modul UCB\">Modul <item type=\"literal\">UCB</item></link>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"bm_id271529062442803\n"
+"help.text"
+msgid "<bookmark_value>BASIC Tools library;Debug module</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC Tools;modul Debug</bookmark_value>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"hd_id371529000826947\n"
+"help.text"
+msgid "<item type=\"literal\">Debug</item> Module"
+msgstr "Modul <item type=\"literal\">Debug</item>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id441529064369519\n"
+"help.text"
+msgid "Functions and subroutines for debugging Basic macros."
+msgstr "Funkcije in podprogrami za razhroščevanje makrov Basic."
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id801529001004856\n"
+"help.text"
+msgid "<variable id=\"macro_name\">Macro</variable>"
+msgstr "<variable id=\"macro_name\">Makro</variable>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id41529001004856\n"
+"help.text"
+msgid "<variable id=\"call_param\">Calling parameters and comments</variable>"
+msgstr "<variable id=\"call_param\">Parametri klicev in komentarji</variable>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"bm_id131529062501888\n"
+"help.text"
+msgid "<bookmark_value>BASIC Tools library;ListBox module</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC Tools;modul ListBox</bookmark_value>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"hd_id11529005753099\n"
+"help.text"
+msgid "<item type=\"literal\">ListBox</item> Module"
+msgstr "Modul <item type=\"literal\">ListBox</item>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id381529064415052\n"
+"help.text"
+msgid "Functions and subroutines for handling ListBox elements."
+msgstr "Funkcije in podprogrami za obravnavanje elementov ListBox."
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"bm_id571529062538621\n"
+"help.text"
+msgid "<bookmark_value>BASIC Tools library;Misc module</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC Tools;modul Misc</bookmark_value>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"hd_id341529005758494\n"
+"help.text"
+msgid "<item type=\"literal\">Misc</item> Module"
+msgstr "Modul <item type=\"literal\">Misc</item>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id681529064596175\n"
+"help.text"
+msgid "Miscellaneous functions and subroutines."
+msgstr "Razne funkcije in podprogrami."
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"bm_id21529062611375\n"
+"help.text"
+msgid "<bookmark_value>BASIC Tools library;ModuleControl module</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC Tools;modul ModuleControl</bookmark_value>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"hd_id451529005764422\n"
+"help.text"
+msgid "<item type=\"literal\">ModuleControls</item> Module"
+msgstr "Modul <item type=\"literal\">ModuleControls</item>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id841529064645990\n"
+"help.text"
+msgid "Functions and subroutines for module control."
+msgstr "Funkcije in podprogrami za nadzor modulov."
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id261558858921700\n"
+"help.text"
+msgid "Refer to <link href=\"text/sbasic/guide/show_dialog.xhp#show_dialog\" name=\"Opening a Dialog with Basic\">Opening a Dialog with Basic</link> for an example of LoadDialog function."
+msgstr "Oglejte si <link href=\"text/sbasic/guide/show_dialog.xhp#show_dialog\" name=\"Prikaz pogovornega okna z Basicom\">Prikaz pogovornega okna z Basicom</link>, kjer najdete primer funkcije LoadDialog."
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"bm_id271529062660965\n"
+"help.text"
+msgid "<bookmark_value>BASIC Tools library;Strings module</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC Tools;modul Stings</bookmark_value>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"hd_id461529005770576\n"
+"help.text"
+msgid "<item type=\"literal\">Strings</item> Module"
+msgstr "Modul <item type=\"literal\">Strings</item>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id631529064722315\n"
+"help.text"
+msgid "Advanced functions and subroutines for string manipulation."
+msgstr "Napredne funkcije in podprogrami za ravnanje z nizi."
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"bm_id731529062695476\n"
+"help.text"
+msgid "<bookmark_value>BASIC Tools library;UCB module</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC Tools;modul UCB</bookmark_value>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"hd_id461529005780299\n"
+"help.text"
+msgid "<item type=\"literal\">UCB</item> Module"
+msgstr "Modul <item type=\"literal\">UCB</item>"
+
+#: lib_tools.xhp
+msgctxt ""
+"lib_tools.xhp\n"
+"par_id131529064870824\n"
+"help.text"
+msgid "<emph>Universal Content Broker</emph> functions and subroutines."
+msgstr "Funkcije in podprogrami UCB (angl. <emph>Universal Content Broker</emph>)."
+
+#: lib_wikieditor.xhp
+msgctxt ""
+"lib_wikieditor.xhp\n"
+"tit\n"
+"help.text"
+msgid "WikiEditor Library"
+msgstr "Knjižnica WikiEditor"
+
+#: lib_wikieditor.xhp
+msgctxt ""
+"lib_wikieditor.xhp\n"
+"hd_id31529004750471\n"
+"help.text"
+msgid "<variable id=\"wikieditor_lib\"><link href=\"text/sbasic/shared/03/lib_wikieditor.xhp\" name=\"WikiEditor library\">The <item type=\"literal\">WikiEditor</item> Library</link></variable>"
+msgstr "<variable id=\"wikieditor_lib\"><link href=\"text/sbasic/shared/03/lib_wikieditor.xhp\" name=\"Knjižnica WikiEditor\">Knjižnica <item type=\"literal\">WikiEditor</item></link></variable>"
+
+#: lib_wikieditor.xhp
+msgctxt ""
+"lib_wikieditor.xhp\n"
+"bm_id231529070133574\n"
+"help.text"
+msgid "<bookmark_value>BASIC WikiEditor library</bookmark_value>"
+msgstr "<bookmark_value>knjižnica BASIC WikiEditor</bookmark_value>"
+
+#: lib_wikieditor.xhp
+msgctxt ""
+"lib_wikieditor.xhp\n"
+"hd_id841593518085848\n"
+"help.text"
+msgid "Description"
+msgstr "Opis"
+
+#: lib_wikieditor.xhp
+msgctxt ""
+"lib_wikieditor.xhp\n"
+"par_id921593518140986\n"
+"help.text"
+msgid "The <emph>WikiEditor</emph> library only contains dialogs, it is used by <emph>Wiki Publisher</emph> bundled Java extension."
+msgstr "Knjižnica <emph>WikiEditor</emph> vsebuje zgolj pogovorna okna; uporablja jo paketu priložena razširitev <emph>MediaWiki-izdajatelj</emph> v Javi."
+
+#: lib_wikieditor.xhp
+msgctxt ""
+"lib_wikieditor.xhp\n"
+"par_id131593538122154\n"
+"help.text"
+msgid "This library is not used by %PRODUCTNAME Basic."
+msgstr "Te knjižnice %PRODUCTNAME Basic ne uporablja."
