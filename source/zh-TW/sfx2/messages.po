@@ -4036,7 +4036,7 @@ msgstr "遠端檔案(_S)"
 #: sfx2/uiconfig/ui/startcenter.ui:205
 msgctxt "startcenter|open_recent"
 msgid "_Recent Documents"
-msgstr ""
+msgstr "最近文件"
 
 #. BnkvG
 #: sfx2/uiconfig/ui/startcenter.ui:229
