@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2021-03-10 16:23+0100\n"
-"PO-Revision-Date: 2021-07-16 22:13+0200\n"
+"POT-Creation-Date: 2021-08-16 16:11+0200\n"
+"PO-Revision-Date: 2021-09-01 14:30+0200\n"
 "Last-Translator: Jun NOGATA <nogajun@gmail.com>\n"
 "Language-Team: Japanese <https://translations.documentfoundation.org/projects/libo_ui-7-1/swmessages/ja/>\n"
 "Language: ja\n"
@@ -4274,13 +4274,13 @@ msgstr "ハイフネーション"
 #: sw/inc/strings.hrc:393
 msgctxt "STR_HYPH_MISSING"
 msgid "Missing hyphenation data"
-msgstr ""
+msgstr "ハイフネーションデータが見つかりません"
 
 #. TEP66
 #: sw/inc/strings.hrc:394
 msgctxt "STR_HYPH_MISSING"
 msgid "Please install the hyphenation package for locale “%1”."
-msgstr ""
+msgstr "%1 ロケールのハイフネーション パッケージをインストールしてください。"
 
 #. MEN2d
 #. Undo
@@ -4888,14 +4888,14 @@ msgstr "発生"
 msgctxt "STR_UNDO_TABS"
 msgid "One tab"
 msgid_plural "$1 tabs"
-msgstr[0] ""
+msgstr[0] "タブ $1"
 
 #. eP6mC
 #: sw/inc/strings.hrc:498
 msgctxt "STR_UNDO_NLS"
 msgid "One line break"
 msgid_plural "$1 line breaks"
-msgstr[0] ""
+msgstr[0] "改行 $1"
 
 #. yS3nP
 #: sw/inc/strings.hrc:499
@@ -5227,7 +5227,7 @@ msgstr "$1 のオブジェクトタイトルを変更"
 #: sw/inc/strings.hrc:554
 msgctxt "STR_UNDO_FLYFRMFMT_DESCRIPTION"
 msgid "Change object description of $1"
-msgstr ""
+msgstr "%1 のオブジェクトの説明を変更"
 
 #. rWw8U
 #: sw/inc/strings.hrc:555
@@ -5257,13 +5257,13 @@ msgstr "表を削除"
 #: sw/inc/strings.hrc:559
 msgctxt "STR_UNDO_INSERT_FORM_FIELD"
 msgid "Insert form field"
-msgstr ""
+msgstr "フォームフィールドの挿入"
 
 #. 2zJmG
 #: sw/inc/strings.hrc:560
 msgctxt "STR_DROP_DOWN_FIELD_ITEM_LIMIT"
 msgid "You can specify maximum of 25 items for a drop-down form field."
-msgstr ""
+msgstr "ドロップダウンのフォームフィールドには、最大25項目指定できます。"
 
 #. CUXeF
 #: sw/inc/strings.hrc:562
@@ -6285,7 +6285,7 @@ msgstr "未発表"
 #: sw/inc/strings.hrc:744
 msgctxt "STR_AUTH_TYPE_EMAIL"
 msgid "Email"
-msgstr ""
+msgstr "メール"
 
 #. 9HKD6
 #: sw/inc/strings.hrc:745
@@ -6783,7 +6783,7 @@ msgstr "プレビュー"
 #: sw/inc/strings.hrc:833
 msgctxt "ST_DELETE_CONFIRM"
 msgid "Do you want to delete this registered data source?"
-msgstr ""
+msgstr "登録したデータソースを削除しますか?"
 
 #. kE5C3
 #: sw/inc/strings.hrc:835
@@ -6885,37 +6885,37 @@ msgstr "%PRODUCTNAME アドレスリスト (.csv)"
 #: sw/inc/strings.hrc:851
 msgctxt "ST_STARTING"
 msgid "Select Starting Document"
-msgstr ""
+msgstr "始める文書を選択"
 
 #. FiUyK
 #: sw/inc/strings.hrc:852
 msgctxt "ST_DOCUMENTTYPE"
 msgid "Select Document Type"
-msgstr ""
+msgstr "作成する文書の種類"
 
 #. QwrpS
 #: sw/inc/strings.hrc:853
 msgctxt "ST_ADDRESSBLOCK"
 msgid "Insert Address Block"
-msgstr ""
+msgstr "アドレスブロックの挿入"
 
 #. omRZF
 #: sw/inc/strings.hrc:854
 msgctxt "ST_ADDRESSLIST"
 msgid "Select Address List"
-msgstr ""
+msgstr "アドレス帳の選択"
 
 #. YrDuD
 #: sw/inc/strings.hrc:855
 msgctxt "ST_GREETINGSLINE"
 msgid "Create Salutation"
-msgstr ""
+msgstr "挨拶文の作成"
 
 #. tTr4B
 #: sw/inc/strings.hrc:856
 msgctxt "ST_LAYOUT"
 msgid "Adjust Layout"
-msgstr ""
+msgstr "レイアウトの調整"
 
 #. S4p5M
 #: sw/inc/strings.hrc:857
@@ -6963,7 +6963,7 @@ msgstr "スペルチェックが完了しました。"
 #: sw/inc/strings.hrc:866
 msgctxt "STR_DICTIONARY_UNAVAILABLE"
 msgid "No dictionary available"
-msgstr ""
+msgstr "辞書がありません"
 
 #. 8gBWQ
 #. --------------------------------------------------------------------
@@ -7307,7 +7307,7 @@ msgstr "DDE 手動"
 #: sw/inc/strings.hrc:936
 msgctxt "FLD_INPUT_TEXT"
 msgid "[Text]"
-msgstr ""
+msgstr "[テキスト]"
 
 #. TyYok
 #. --------------------------------------------------------------------
@@ -7999,13 +7999,13 @@ msgstr "ヘッダーなし"
 #: sw/inc/strings.hrc:1084
 msgctxt "STR_SURROUND_IDEAL"
 msgid "Optimal"
-msgstr ""
+msgstr "左右動的"
 
 #. HEuGy
 #: sw/inc/strings.hrc:1085
 msgctxt "STR_SURROUND_NONE"
 msgid "None"
-msgstr ""
+msgstr "上下"
 
 #. 4tA4q
 #: sw/inc/strings.hrc:1086
@@ -8017,19 +8017,19 @@ msgstr "折り返しなし"
 #: sw/inc/strings.hrc:1087
 msgctxt "STR_SURROUND_PARALLEL"
 msgid "Parallel"
-msgstr ""
+msgstr "両側"
 
 #. hyEQ5
 #: sw/inc/strings.hrc:1088
 msgctxt "STR_SURROUND_LEFT"
 msgid "Before"
-msgstr ""
+msgstr "左側"
 
 #. bGBtQ
 #: sw/inc/strings.hrc:1089
 msgctxt "STR_SURROUND_RIGHT"
 msgid "After"
-msgstr ""
+msgstr "右側"
 
 #. SrG3D
 #: sw/inc/strings.hrc:1090
@@ -8251,19 +8251,19 @@ msgstr "明度: "
 #: sw/inc/strings.hrc:1126
 msgctxt "STR_CHANNELR"
 msgid "Red: "
-msgstr "赤色の割合: "
+msgstr "赤チャンネル: "
 
 #. u73NC
 #: sw/inc/strings.hrc:1127
 msgctxt "STR_CHANNELG"
 msgid "Green: "
-msgstr "緑色の割合: "
+msgstr "緑チャンネル: "
 
 #. qQsPp
 #: sw/inc/strings.hrc:1128
 msgctxt "STR_CHANNELB"
 msgid "Blue: "
-msgstr "青色の割合: "
+msgstr "青チャンネル: "
 
 #. BS4nZ
 #: sw/inc/strings.hrc:1129
@@ -8287,13 +8287,13 @@ msgstr "透明度: "
 #: sw/inc/strings.hrc:1132
 msgctxt "STR_INVERT"
 msgid "Invert"
-msgstr "逆転"
+msgstr "色反転"
 
 #. DVSAx
 #: sw/inc/strings.hrc:1133
 msgctxt "STR_INVERT_NOT"
 msgid "do not invert"
-msgstr "逆転なし"
+msgstr "色反転なし"
 
 #. Z7tXB
 #: sw/inc/strings.hrc:1134
@@ -8395,7 +8395,7 @@ msgstr "ページ"
 #: sw/inc/strings.hrc:1151
 msgctxt "ST_DRW"
 msgid "Drawing"
-msgstr "図形描画"
+msgstr "シェイプ"
 
 #. amiSY
 #: sw/inc/strings.hrc:1152
@@ -8924,7 +8924,7 @@ msgstr "オートコレクト"
 #: sw/inc/strings.hrc:1243
 msgctxt "STR_REDLINE_FORMATTED"
 msgid "Formats"
-msgstr ""
+msgstr "書式"
 
 #. ELCVU
 #: sw/inc/strings.hrc:1244
@@ -9355,7 +9355,7 @@ msgstr "ドキュメントを結合できませんでした。"
 #: sw/inc/strings.hrc:1327
 msgctxt "STR_NO_BASE_FOR_MERGE"
 msgid "%PRODUCTNAME Base component is absent, and it is required to use Mail Merge."
-msgstr ""
+msgstr "差し込み印刷に必要な %PRODUCTNAME Baseコンポーネントがありません。"
 
 #. wcuf4
 #: sw/inc/strings.hrc:1328
@@ -9433,7 +9433,7 @@ msgstr "ソーステキストをエクスポートする(~E)..."
 #: sw/inc/strings.hrc:1340
 msgctxt "STR_SAVEACOPY_SRC"
 msgid "~Export copy of source..."
-msgstr ""
+msgstr "ソーステキストのコピーをエクスポートする(~E)..."
 
 #. BT3M3
 #: sw/inc/strings.hrc:1342
@@ -9493,7 +9493,7 @@ msgstr "段落の機密レベルが高いためドキュメントのレベルが
 #: sw/inc/strings.hrc:1362
 msgctxt "STR_VALID"
 msgid " Valid "
-msgstr ""
+msgstr " 有効 "
 
 #. xAKRC
 #: sw/inc/strings.hrc:1363
@@ -9517,7 +9517,7 @@ msgstr "署名者"
 #: sw/inc/strings.hrc:1366
 msgctxt "STR_PARAGRAPH_SIGNATURE"
 msgid "Paragraph Signature"
-msgstr ""
+msgstr "段落署名"
 
 #. kZKCf
 #: sw/inc/strings.hrc:1368
@@ -9529,7 +9529,7 @@ msgstr "名刺"
 #: sw/inc/strings.hrc:1370
 msgctxt "STR_MAILCONFIG_DLG_TITLE"
 msgid "Email settings"
-msgstr ""
+msgstr "メールの設定"
 
 #. PwrB9
 #: sw/inc/strings.hrc:1372
@@ -10168,55 +10168,55 @@ msgid "Assign Styles"
 msgstr "スタイルの適用"
 
 #. JVyGG
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:202
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:203
 msgctxt "assignstylesdialog|left|tooltip_text"
 msgid "Promote level"
 msgstr ""
 
 #. szu9U
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:206
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:207
 msgctxt "assignstylesdialog|left-atkobject"
 msgid "Left"
 msgstr "左"
 
 #. KurCF
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:207
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:208
 msgctxt "assignstylesdialog|extended_tip|left"
 msgid "Moves the selected paragraph style up one level in the index hierarchy."
 msgstr "選択した段落スタイルを、索引の階層で 1 つ上に移動させます。"
 
 #. ScVY5
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:222
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:223
 msgctxt "assignstylesdialog|right|tooltip_text"
 msgid "Demote level"
 msgstr ""
 
 #. 6aqvE
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:226
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:227
 msgctxt "assignstylesdialog|right-atkobject"
 msgid "Right"
 msgstr "右"
 
 #. vmpZc
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:227
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:228
 msgctxt "assignstylesdialog|extended_tip|right"
 msgid "Moves the selected paragraph style down one level in the index hierarchy."
 msgstr "選択した段落スタイルを、索引の階層で 1 つ下に移動させます。"
 
 #. tF4xa
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:273
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:274
 msgctxt "assignstylesdialog|stylecolumn"
 msgid "Style"
 msgstr ""
 
 #. 3MYjK
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:465
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:466
 msgctxt "assignstylesdialog|label3"
 msgid "Styles"
 msgstr "スタイル"
 
 #. sr78E
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:490
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:491
 msgctxt "assignstylesdialog|extended_tip|AssignStylesDialog"
 msgid "Creates index entries from specific paragraph styles."
 msgstr "特定の段落スタイルを基に、索引の項目を作成します。"
@@ -10753,7 +10753,7 @@ msgstr "分類"
 #: sw/uiconfig/swriter/ui/autotext.ui:555
 msgctxt "autotext|example-atkobject"
 msgid "Preview"
-msgstr ""
+msgstr "プレビュー"
 
 #. 2FEex
 #: sw/uiconfig/swriter/ui/autotext.ui:591
@@ -10807,7 +10807,7 @@ msgstr "適用"
 #: sw/uiconfig/swriter/ui/bibliographyentry.ui:153
 msgctxt "bibliographyentry|frombibliography"
 msgid "Bibliography Database"
-msgstr ""
+msgstr "参考文献データベース"
 
 #. TyGCb
 #: sw/uiconfig/swriter/ui/bibliographyentry.ui:163
@@ -10825,13 +10825,13 @@ msgstr ""
 #: sw/uiconfig/swriter/ui/bibliographyentry.ui:184
 msgctxt "bibliographyentry|extended_tip|fromdocument"
 msgid "Inserts a reference from the bibliography records that are stored in the current document."
-msgstr "挿入する参照項目の選択対象を、現在のドキュメントに登録されている参考文献レコードにします。"
+msgstr "挿入する参照項目の選択対象を現在のドキュメントに登録されている参考文献レコードにします。"
 
 #. AhW2w
 #: sw/uiconfig/swriter/ui/bibliographyentry.ui:201
 msgctxt "bibliographyentry|label1"
 msgid "Bibliography Source"
-msgstr ""
+msgstr "書誌情報"
 
 #. 5BLqy
 #: sw/uiconfig/swriter/ui/bibliographyentry.ui:237
@@ -11527,13 +11527,13 @@ msgstr "イベント..."
 #: sw/uiconfig/swriter/ui/charurlpage.ui:95
 msgctxt "charurlpage|extended_tip|eventpb"
 msgid "Specify an event that triggers when you click the hyperlink."
-msgstr ""
+msgstr "ハイパーリンクをクリックしたときに起こるイベントを指定します。"
 
 #. MhJbE
 #: sw/uiconfig/swriter/ui/charurlpage.ui:113
 msgctxt "charurlpage|extended_tip|urled"
 msgid "Enter a URL for the file that you want to open when you click the hyperlink."
-msgstr "ハイパーリンクをクリックしたときに開くファイルの  URL を入力します。"
+msgstr "ハイパーリンクをクリックしたときに開くファイルのURLを入力します。"
 
 #. YGnoF
 #: sw/uiconfig/swriter/ui/charurlpage.ui:131
@@ -12289,7 +12289,7 @@ msgstr "選択中のテキストの表への変換、および選択中の表の
 #: sw/uiconfig/swriter/ui/createaddresslist.ui:13
 msgctxt "createaddresslist|CreateAddressList"
 msgid "New Address List"
-msgstr "新規アドレスリスト"
+msgstr "新規アドレス帳"
 
 #. eTJmA
 #: sw/uiconfig/swriter/ui/createaddresslist.ui:98
@@ -12379,7 +12379,7 @@ msgstr "新規作成(_N)"
 #: sw/uiconfig/swriter/ui/createaddresslist.ui:356
 msgctxt "createaddresslist|extended_tip|NEW"
 msgid "Adds a new blank record to the address list."
-msgstr "新しい空白レコードをアドレスリストに追加します。"
+msgstr "アドレス帳に新規に空白レコードを追加します。"
 
 #. jt8fG
 #: sw/uiconfig/swriter/ui/createaddresslist.ui:368
@@ -12415,7 +12415,7 @@ msgstr "カスタマイズ(_U)..."
 #: sw/uiconfig/swriter/ui/createaddresslist.ui:413
 msgctxt "createaddresslist|extended_tip|CUSTOMIZE"
 msgid "Opens the Customize Address List dialog where you can rearrange, rename, add, and delete fields."
-msgstr "フィールドの整列や名前を変更したり、フィールドを追加または削除したりできる アドレスリストのカスタマイズ ダイアログを開きます。"
+msgstr "アドレス帳のカスタマイズダイアログを開いて、フィールドを再配置したり名前の変更、追加、削除ができます。"
 
 #. DG4y3
 #: sw/uiconfig/swriter/ui/createaddresslist.ui:448
@@ -12463,7 +12463,7 @@ msgstr "索引項目の対象とする用語を一括して登録し、必要な
 #: sw/uiconfig/swriter/ui/customizeaddrlistdialog.ui:26
 msgctxt "customizeaddrlistdialog|CustomizeAddrListDialog"
 msgid "Customize Address List"
-msgstr "アドレスリストのカスタマイズ"
+msgstr "アドレス帳のカスタマイズ"
 
 #. Mfeh7
 #: sw/uiconfig/swriter/ui/customizeaddrlistdialog.ui:111
@@ -12499,7 +12499,7 @@ msgstr "選択したテキストフィールドの名前を変更します。"
 #: sw/uiconfig/swriter/ui/customizeaddrlistdialog.ui:184
 msgctxt "customizeaddrlistdialog|label1"
 msgid "A_ddress list elements:"
-msgstr "アドレスリストの要素(_D):"
+msgstr "アドレス帳の要素(_D):"
 
 #. AxRrt
 #: sw/uiconfig/swriter/ui/customizeaddrlistdialog.ui:226
@@ -13771,13 +13771,13 @@ msgstr "検索の範囲を 1 つのデータフィールドに制限します。
 #: sw/uiconfig/swriter/ui/findentrydialog.ui:170
 msgctxt "findentrydialog|extended_tip|area"
 msgid "Select the data field where you want to search for the text."
-msgstr ""
+msgstr "文字列を検索するデータフィールドを選択します。"
 
 #. FQuFW
 #: sw/uiconfig/swriter/ui/findentrydialog.ui:204
 msgctxt "findentrydialog|extended_tip|FindEntryDialog"
 msgid "Searches for a record or recipient in the mail merge address list."
-msgstr ""
+msgstr "差し込み印刷の宛先リストからレコードまたは宛先を検索します。"
 
 #. x6NKD
 #: sw/uiconfig/swriter/ui/flddbpage.ui:94
@@ -13825,7 +13825,7 @@ msgstr "フィールドに参照させる、データベーステーブルまた
 #: sw/uiconfig/swriter/ui/flddbpage.ui:302
 msgctxt "flddbpage|label2"
 msgid "Database S_election"
-msgstr ""
+msgstr "データベースの選択(_E)"
 
 #. JeBVb
 #: sw/uiconfig/swriter/ui/flddbpage.ui:328
@@ -13909,7 +13909,7 @@ msgstr "フィールドタイプ リストで選択されたフィールドが�
 #: sw/uiconfig/swriter/ui/flddocinfopage.ui:169
 msgctxt "flddocinfopage|label2"
 msgid "_Select"
-msgstr ""
+msgstr "選択(_S)"
 
 #. oGvBL
 #: sw/uiconfig/swriter/ui/flddocinfopage.ui:237
@@ -13933,7 +13933,7 @@ msgstr "フィールドの表示内容を固定させます。この指定を付
 #: sw/uiconfig/swriter/ui/flddocinfopage.ui:278
 msgctxt "flddocinfopage|label3"
 msgid "_Format"
-msgstr ""
+msgstr "書式(_F)"
 
 #. BmH6G
 #: sw/uiconfig/swriter/ui/flddocumentpage.ui:103
@@ -13957,7 +13957,7 @@ msgstr "フィールドタイプ リストで選択されたフィールドが�
 #: sw/uiconfig/swriter/ui/flddocumentpage.ui:190
 msgctxt "flddocumentpage|label2"
 msgid "_Select"
-msgstr ""
+msgstr "選択(_S)"
 
 #. xtXnr
 #: sw/uiconfig/swriter/ui/flddocumentpage.ui:267
@@ -13969,7 +13969,7 @@ msgstr "選択したフィールドに適用する書式を選択します。「
 #: sw/uiconfig/swriter/ui/flddocumentpage.ui:327
 msgctxt "flddocumentpage|label3"
 msgid "_Format"
-msgstr ""
+msgstr "書式(_F)"
 
 #. k7KnK
 #: sw/uiconfig/swriter/ui/flddocumentpage.ui:343
@@ -14041,7 +14041,7 @@ msgstr "フィールドタイプ(_T)"
 #: sw/uiconfig/swriter/ui/fldfuncpage.ui:167
 msgctxt "fldfuncpage|label4"
 msgid "_Select"
-msgstr ""
+msgstr "選択(_S)"
 
 #. b3UqC
 #: sw/uiconfig/swriter/ui/fldfuncpage.ui:229
@@ -14053,7 +14053,7 @@ msgstr "選択したフィールドに適用する書式を選択します。「
 #: sw/uiconfig/swriter/ui/fldfuncpage.ui:242
 msgctxt "fldfuncpage|label2"
 msgid "_Format"
-msgstr ""
+msgstr "書式(_F)"
 
 #. CGoTS
 #: sw/uiconfig/swriter/ui/fldfuncpage.ui:267
@@ -14287,7 +14287,7 @@ msgstr "フィールドタイプ リストで選択されたフィールドが�
 #: sw/uiconfig/swriter/ui/fldvarpage.ui:214
 msgctxt "fldvarpage|label2"
 msgid "_Select"
-msgstr ""
+msgstr "選択(_S)"
 
 #. ZuuQf
 #: sw/uiconfig/swriter/ui/fldvarpage.ui:306
@@ -14305,7 +14305,7 @@ msgstr "書式 リストで、値をテキストと数値のどちらで挿入�
 #: sw/uiconfig/swriter/ui/fldvarpage.ui:371
 msgctxt "fldvarpage|label3"
 msgid "_Format"
-msgstr ""
+msgstr "書式(_F)"
 
 #. qPpKb
 #: sw/uiconfig/swriter/ui/fldvarpage.ui:388
@@ -14912,7 +14912,7 @@ msgstr "スタイル"
 #: sw/uiconfig/swriter/ui/footnotepage.ui:524
 msgctxt "footnotepage|extended_tip|FootnotePage"
 msgid "Specifies the formatting for footnotes."
-msgstr ""
+msgstr "脚注の書式を指定します。"
 
 #. MV5EC
 #: sw/uiconfig/swriter/ui/footnotesendnotestabpage.ui:57
@@ -14954,7 +14954,7 @@ msgstr "脚注番号の後に表示するテキストを入力します。"
 #: sw/uiconfig/swriter/ui/footnotesendnotestabpage.ui:171
 msgctxt "footnotesendnotestabpage|ftnsuffix_label"
 msgid "Aft_er:"
-msgstr "番号後(_E):"
+msgstr "番号の後(_E):"
 
 #. 5FUmu
 #: sw/uiconfig/swriter/ui/footnotesendnotestabpage.ui:187
@@ -14972,7 +14972,7 @@ msgstr "脚注番号の前に表示するテキストを入力します。"
 #: sw/uiconfig/swriter/ui/footnotesendnotestabpage.ui:220
 msgctxt "footnotesendnotestabpage|ftnprefix_label"
 msgid "Be_fore:"
-msgstr "番号前(_F):"
+msgstr "番号の前(_F):"
 
 #. ovwSj
 #: sw/uiconfig/swriter/ui/footnotesendnotestabpage.ui:244
@@ -15050,7 +15050,7 @@ msgstr "文末脚注番号の後に表示するテキストを入力します。
 #: sw/uiconfig/swriter/ui/footnotesendnotestabpage.ui:458
 msgctxt "footnotesendnotestabpage|endsuffix_label"
 msgid "Aft_er:"
-msgstr "番号後(_E):"
+msgstr "番号の後(_E):"
 
 #. vSp7c
 #: sw/uiconfig/swriter/ui/footnotesendnotestabpage.ui:474
@@ -15068,7 +15068,7 @@ msgstr "文末脚注番号の前に表示するテキストを入力します。
 #: sw/uiconfig/swriter/ui/footnotesendnotestabpage.ui:507
 msgctxt "footnotesendnotestabpage|endprefix_label"
 msgid "Be_fore:"
-msgstr "番号前(_F):"
+msgstr "番号の前(_F):"
 
 #. VC57B
 #: sw/uiconfig/swriter/ui/footnotesendnotestabpage.ui:537
@@ -16232,7 +16232,7 @@ msgstr "四捨五入"
 #: sw/uiconfig/swriter/ui/inputwinmenu.ui:29
 msgctxt "inputwinmenu|extended_tip|round"
 msgid "Rounds a number to the specified decimal places."
-msgstr ""
+msgstr "数値を指定した小数点以下の桁に丸めます。"
 
 #. 9nA3q
 #: sw/uiconfig/swriter/ui/inputwinmenu.ui:38
@@ -16244,7 +16244,7 @@ msgstr "パーセント"
 #: sw/uiconfig/swriter/ui/inputwinmenu.ui:42
 msgctxt "inputwinmenu|extended_tip|phd"
 msgid "Calculates a percentage"
-msgstr ""
+msgstr "パーセンテージを計算します"
 
 #. P9tJv
 #: sw/uiconfig/swriter/ui/inputwinmenu.ui:51
@@ -16256,7 +16256,7 @@ msgstr "平方根"
 #: sw/uiconfig/swriter/ui/inputwinmenu.ui:55
 msgctxt "inputwinmenu|extended_tip|sqrt"
 msgid "Calculates the square root."
-msgstr ""
+msgstr "平方根を計算します。"
 
 #. cfE6B
 #: sw/uiconfig/swriter/ui/inputwinmenu.ui:64
@@ -16268,7 +16268,7 @@ msgstr "累乗"
 #: sw/uiconfig/swriter/ui/inputwinmenu.ui:68
 msgctxt "inputwinmenu|extended_tip|pow"
 msgid "Calculates the power of a number."
-msgstr ""
+msgstr "数値の累乗を計算します。"
 
 #. dMv5S
 #: sw/uiconfig/swriter/ui/inputwinmenu.ui:77
@@ -18611,31 +18611,31 @@ msgstr ""
 #: sw/uiconfig/swriter/ui/mmaddressblockpage.ui:64
 msgctxt "mmaddressblockpage|addresslist"
 msgid "Select A_ddress List..."
-msgstr "アドレスリストの選択(_D)..."
+msgstr "アドレス帳の選択(_D)..."
 
 #. 7vUgG
 #: sw/uiconfig/swriter/ui/mmaddressblockpage.ui:71
 msgctxt "mmaddressblockpage|extended_tip|addresslist"
 msgid "Opens the Select Address List dialog, where you can choose a data source for the addresses, add new addresses, or type in a new address list."
-msgstr "アドレスのデータソースを選択したり、新しいアドレスを追加したり、新しいアドレスリストに入力したりできる アドレスリストの選択 ダイアログを開きます。"
+msgstr "「アドレス帳の選択」ダイアログを開いて、アドレスのデータソースを選択したり、新しいアドレスを追加や新しいアドレス帳の入力ができます。"
 
 #. kG8DG
 #: sw/uiconfig/swriter/ui/mmaddressblockpage.ui:82
 msgctxt "mmaddressblockpage|differentlist"
 msgid "Select Different A_ddress List..."
-msgstr "ほかのアドレスリストの選択(_D)..."
+msgstr "ほかのアドレス帳を選択(_D)..."
 
 #. Sb7nE
 #: sw/uiconfig/swriter/ui/mmaddressblockpage.ui:103
 msgctxt "mmaddressblockpage|currentaddress"
 msgid "Current address list: %1"
-msgstr "現在のアドレスリスト: %1"
+msgstr "現在のアドレス帳: %1"
 
 #. 8JF4w
 #: sw/uiconfig/swriter/ui/mmaddressblockpage.ui:124
 msgctxt "mmaddressblockpage|label2"
 msgid "Select the address list containing the address data you want to use. This data is needed to create the address block."
-msgstr "使用するアドレスデータが含まれているアドレスリストを選択します。このデータを使って、アドレスブロックが作成されます。"
+msgstr "使用するアドレスデータがあるアドレス帳を選択します。このデータは、アドレスブロックの作成に必要です。"
 
 #. EwS5S
 #: sw/uiconfig/swriter/ui/mmaddressblockpage.ui:140
@@ -18983,7 +18983,7 @@ msgstr "パーソナライズされた挨拶文が作成できない場合に使
 #: sw/uiconfig/swriter/ui/mmmailbody.ui:238
 msgctxt "mmmailbody|femalefi"
 msgid "Address list field indicating a female recipient"
-msgstr "受信者が女性であることを示すアドレスリストフィールド"
+msgstr "受信者が女性であることを示すアドレス帳のフィールド"
 
 #. CGRhM
 #: sw/uiconfig/swriter/ui/mmmailbody.ui:251
@@ -19085,7 +19085,7 @@ msgstr "複数の宛先にレターを送信します。レターには、アド
 #: sw/uiconfig/swriter/ui/mmoutputtypepage.ui:62
 msgctxt "mmoutputtypepage|emailft"
 msgid "Send email messages to a group of recipients. The email messages can contain a salutation. The email messages can be personalized for each recipient."
-msgstr ""
+msgstr "受信者グループにメールのメッセージを送信します。メールのメッセージには敬称を付けられます。また、受信者ごとにカスタマイズしたメールのメッセージを送信できます。"
 
 #. C55d9
 #: sw/uiconfig/swriter/ui/mmoutputtypepage.ui:82
@@ -19103,19 +19103,19 @@ msgstr "印刷可能な差し込み印刷ドキュメントを作成します。
 #: sw/uiconfig/swriter/ui/mmoutputtypepage.ui:103
 msgctxt "mmoutputtypepage|email"
 msgid "_Email message"
-msgstr ""
+msgstr "メールのメッセージ"
 
 #. Sr8EB
 #: sw/uiconfig/swriter/ui/mmoutputtypepage.ui:113
 msgctxt "mmoutputtypepage|extended_tip|email"
 msgid "Creates mail merge documents that you can send as an email message or an email attachment."
-msgstr ""
+msgstr "メールのメッセージやメールの添付ファイルとして送信する差し込み印刷文書を作成します。"
 
 #. roGWt
 #: sw/uiconfig/swriter/ui/mmoutputtypepage.ui:148
 msgctxt "mmoutputtypepage|label1"
 msgid "What Type of Document Do You Want to Create?"
-msgstr "作成するドキュメントの種類を指定してください。"
+msgstr "作成する文書の種類を選択してください。"
 
 #. cCE2r
 #: sw/uiconfig/swriter/ui/mmoutputtypepage.ui:163
@@ -19133,13 +19133,13 @@ msgstr ""
 #: sw/uiconfig/swriter/ui/mmresultemaildialog.ui:35
 msgctxt "mmresultemaildialog|ok"
 msgid "Send Documents"
-msgstr "ドキュメントの送信"
+msgstr "文書の送信"
 
 #. GNwFE
 #: sw/uiconfig/swriter/ui/mmresultemaildialog.ui:43
 msgctxt "mmresultemaildialog|extended_tip|ok"
 msgid "Click to start sending emails."
-msgstr ""
+msgstr "クリックしてメールを送信します。"
 
 #. cNmQk
 #: sw/uiconfig/swriter/ui/mmresultemaildialog.ui:123
@@ -19235,13 +19235,13 @@ msgstr ""
 #: sw/uiconfig/swriter/ui/mmresultemaildialog.ui:259
 msgctxt "mmresultemaildialog|passwordft"
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 #. AEF8w
 #: sw/uiconfig/swriter/ui/mmresultemaildialog.ui:282
 msgctxt "mmresultemaildialog|passwordcb"
 msgid "Save with password"
-msgstr "Save with password"
+msgstr ""
 
 #. vHPkv
 #: sw/uiconfig/swriter/ui/mmresultemaildialog.ui:329
@@ -19583,7 +19583,7 @@ msgstr "パーソナライズされた挨拶文を指定しない場合に使用
 #: sw/uiconfig/swriter/ui/mmsalutationpage.ui:309
 msgctxt "mmsalutationpage|femalefi"
 msgid "Address list field indicating a female recipient"
-msgstr "受信者が女性であることを示すアドレスリストフィールド"
+msgstr "受信者が女性であることを示すアドレス帳のフィールド"
 
 #. Gu5tC
 #: sw/uiconfig/swriter/ui/mmsalutationpage.ui:322
@@ -19685,67 +19685,67 @@ msgstr ""
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:32
 msgctxt "mmselectpage|currentdoc"
 msgid "Use the current _document"
-msgstr "現在のドキュメントを使用(_D)"
+msgstr "現在の文書を使用(_D)"
 
 #. EUVtU
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:42
 msgctxt "mmselectpage|extended_tip|currentdoc"
 msgid "Uses the current Writer document as the base for the mail merge document."
-msgstr "現在の Writer ドキュメントを差し込み印刷ドキュメントのベースとして使用します。"
+msgstr "現在使用しているWriter文書を差し込み印刷用文書に使用します。"
 
 #. KUEyG
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:53
 msgctxt "mmselectpage|newdoc"
 msgid "Create a ne_w document"
-msgstr "新規ドキュメントの作成(_W)"
+msgstr "新規文書を作成(_W)"
 
 #. XY8FU
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:63
 msgctxt "mmselectpage|extended_tip|newdoc"
 msgid "Creates a new Writer document to use for the mail merge."
-msgstr "差し込み印刷用に使用する新しいWriter ドキュメントを作成します。"
+msgstr "差し込み印刷用に使用する新しいWriter文書を作成します。"
 
 #. bATvf
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:74
 msgctxt "mmselectpage|loaddoc"
 msgid "Start from _existing document"
-msgstr "既存のドキュメントから開始(_E)"
+msgstr "既存の文書から始める(_E)"
 
 #. MFqCS
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:85
 msgctxt "mmselectpage|extended_tip|loaddoc"
 msgid "Select an existing Writer document to use as the base for the mail merge document."
-msgstr "差し込み印刷ドキュメントのベースとして使用できる既存の Writer ドキュメントを選択します。"
+msgstr "差し込み印刷用文書として使用する既存の文書を選択します。"
 
 #. GieL3
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:96
 msgctxt "mmselectpage|template"
 msgid "Start from a t_emplate"
-msgstr "テンプレートから開始(_E)"
+msgstr "テンプレートから始める(_E)"
 
 #. BxBQF
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:107
 msgctxt "mmselectpage|extended_tip|template"
 msgid "Select the template that you want to create your mail merge document with."
-msgstr "差し込み印刷ドキュメントを作成するときに使用するテンプレートを選択します。"
+msgstr "差し込み印刷用文書に使用するテンプレートを選択します。"
 
 #. mSCWL
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:118
 msgctxt "mmselectpage|recentdoc"
 msgid "Start fro_m a recently saved starting document"
-msgstr "最近保存した開始ドキュメントから開始(_M)"
+msgstr "最近保存した差し込み印刷用文書から始める(_M)"
 
 #. xomYf
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:128
 msgctxt "mmselectpage|extended_tip|recentdoc"
 msgid "Use an existing mail merge document as the base for a new mail merge document."
-msgstr "既存の差し込み印刷ドキュメントを新しい差し込み印刷ドキュメントのベースとして使用します。"
+msgstr "既存の差し込み印刷用文書を新しい差し込み印刷用文書として使用します。"
 
 #. JMgbV
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:144
 msgctxt "mmselectpage|extended_tip|recentdoclb"
 msgid "Select the document."
-msgstr "ドキュメントを選択します。"
+msgstr "文書を選択します。"
 
 #. BUbEr
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:155
@@ -19757,7 +19757,7 @@ msgstr "検索(_R)..."
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:164
 msgctxt "mmselectpage|extended_tip|browsedoc"
 msgid "Locate the Writer document that you want to use, and then click Open."
-msgstr "使用したい Writer ドキュメントを指定して開くをクリックします。"
+msgstr "使用するWriter文書を指定して開くをクリックします。"
 
 #. 3trwP
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:175
@@ -19769,13 +19769,13 @@ msgstr "検索(_R)..."
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:184
 msgctxt "mmselectpage|extended_tip|browsetemplate"
 msgid "Opens a template selector dialog."
-msgstr ""
+msgstr "テンプレート選択ダイアログを開きます。"
 
 #. 8ESAz
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:201
 msgctxt "mmselectpage|label1"
 msgid "Select Starting Document for the Mail Merge"
-msgstr "差し込み印刷に使用する開始ドキュメントを選択"
+msgstr "差し込み印刷に使用する文書を選択します"
 
 #. Hpca5
 #: sw/uiconfig/swriter/ui/mmselectpage.ui:216
@@ -19901,31 +19901,31 @@ msgstr "レベルを下げる"
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:102
 msgctxt "navigatorcontextmenu|STR_REMOVE_INDEX"
 msgid "_Remove Index"
-msgstr ""
+msgstr "目次を削除(_R)"
 
 #. C4355
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:110
 msgctxt "navigatorcontextmenu|STR_UPDATE"
 msgid "_Update"
-msgstr ""
+msgstr "更新(_U)"
 
 #. BtCca
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:118
 msgctxt "navigatorcontextmenu|STR_EDIT_ENTRY"
 msgid "Edit..."
-msgstr ""
+msgstr "編集..."
 
 #. BYyhD
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:126
 msgctxt "navigatorcontextmenu|STR_REMOVE_TBL_PROTECTION"
 msgid "_Unprotect"
-msgstr ""
+msgstr "保護の解除(_U)"
 
 #. 6KWWG
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:134
 msgctxt "navigatorcontextmenu|STR_READONLY_IDX"
 msgid "Read-_only"
-msgstr ""
+msgstr "読み取り専用(_O)"
 
 #. BUQRq
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:142
@@ -19937,25 +19937,25 @@ msgstr "削除(_D)"
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:151
 msgctxt "navigatorcontextmenu|STR_RENAME"
 msgid "_Rename..."
-msgstr ""
+msgstr "名前の変更(_R)..."
 
 #. U5nAb
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:159
 msgctxt "navigatorcontextmenu|STR_POSTIT_SHOW"
 msgid "Show All"
-msgstr ""
+msgstr "すべて表示"
 
 #. E2wWp
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:167
 msgctxt "navigatorcontextmenu|STR_POSTIT_HIDE"
 msgid "Hide All"
-msgstr ""
+msgstr "すべて隠す"
 
 #. aDRke
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:175
 msgctxt "navigatorcontextmenu|STR_POSTIT_DELETE"
 msgid "Delete All"
-msgstr ""
+msgstr "すべて削除"
 
 #. QeLGW
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:189
@@ -19967,13 +19967,13 @@ msgstr ""
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:209
 msgctxt "navigatorcontextmenu|STR_OUTLINE_TRACKING"
 msgid "Outline Tracking"
-msgstr "アウトラインの追跡"
+msgstr "見出しの追跡"
 
 #. cECoG
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:223
 msgctxt "navigatorcontextmenu|STR_OUTLINE_LEVEL"
 msgid "Outline Level"
-msgstr "アウトラインレベル"
+msgstr "見出しレベル"
 
 #. GyAcG
 #: sw/uiconfig/swriter/ui/navigatorcontextmenu.ui:237
@@ -20009,25 +20009,25 @@ msgstr "コピーとして挿入"
 #: sw/uiconfig/swriter/ui/navigatorpanel.ui:155
 msgctxt "navigatorpanel|STR_INDEX"
 msgid "_Index"
-msgstr ""
+msgstr "目次(_I)"
 
 #. NyHHE
 #: sw/uiconfig/swriter/ui/navigatorpanel.ui:163
 msgctxt "navigatorpanel|STR_FILE"
 msgid "File"
-msgstr ""
+msgstr "ファイル"
 
 #. NZZqB
 #: sw/uiconfig/swriter/ui/navigatorpanel.ui:171
 msgctxt "navigatorpanel|STR_NEW_FILE"
 msgid "New Document"
-msgstr ""
+msgstr "新規ドキュメント"
 
 #. FMVmv
 #: sw/uiconfig/swriter/ui/navigatorpanel.ui:179
 msgctxt "navigatorpanel|STR_INSERT_TEXT"
 msgid "Text"
-msgstr ""
+msgstr "テキスト"
 
 #. xuEPo
 #: sw/uiconfig/swriter/ui/navigatorpanel.ui:265
@@ -20429,7 +20429,7 @@ msgstr "表示(~V)"
 #: sw/uiconfig/swriter/ui/notebookbar.ui:11135
 msgctxt "WriterNotebookbar|TableMenuButton"
 msgid "_Table"
-msgstr ""
+msgstr "表(_T)"
 
 #. nFByf
 #: sw/uiconfig/swriter/ui/notebookbar.ui:11220
@@ -20441,37 +20441,37 @@ msgstr "表(~T)"
 #: sw/uiconfig/swriter/ui/notebookbar.ui:12395
 msgctxt "WriterNotebookbar|ImageMenuButton"
 msgid "Ima_ge"
-msgstr ""
+msgstr "画像(_G)"
 
 #. tfZvk
 #: sw/uiconfig/swriter/ui/notebookbar.ui:12494
 msgctxt "WriterNotebookbar|ImageLabel"
 msgid "Ima~ge"
-msgstr ""
+msgstr "画像(~G)"
 
 #. CAFm3
 #: sw/uiconfig/swriter/ui/notebookbar.ui:13858
 msgctxt "WriterNotebookbar|DrawMenuButton"
 msgid "_Draw"
-msgstr ""
+msgstr "図形描画(_D)"
 
 #. eBYpc
 #: sw/uiconfig/swriter/ui/notebookbar.ui:13968
 msgctxt "WriterNotebookbar|DrawLabel"
 msgid "~Draw"
-msgstr ""
+msgstr "図形描画(~D)"
 
 #. UPA2b
 #: sw/uiconfig/swriter/ui/notebookbar.ui:14863
 msgctxt "WriterNotebookbar|ObjectMenuButton"
 msgid "_Object"
-msgstr ""
+msgstr "オブジェクト(_O)"
 
 #. gMACj
 #: sw/uiconfig/swriter/ui/notebookbar.ui:14949
 msgctxt "WriterNotebookbar|ObjectLabel"
 msgid "~Object"
-msgstr ""
+msgstr "オブジェクト(~O)"
 
 #. YLmxD
 #: sw/uiconfig/swriter/ui/notebookbar.ui:15755
@@ -20483,7 +20483,7 @@ msgstr "メディア(_M)"
 #: sw/uiconfig/swriter/ui/notebookbar.ui:15862
 msgctxt "WriterNotebookbar|MediaLabel"
 msgid "~Media"
-msgstr ""
+msgstr "メディア(~M)"
 
 #. SDFU4
 #: sw/uiconfig/swriter/ui/notebookbar.ui:16315
@@ -20633,25 +20633,25 @@ msgstr "表(~T)"
 #: sw/uiconfig/swriter/ui/notebookbar_compact.ui:11973
 msgctxt "notebookbar_compact|ImageMenuButton"
 msgid "Im_age"
-msgstr ""
+msgstr "画像(_A)"
 
 #. ekWoX
 #: sw/uiconfig/swriter/ui/notebookbar_compact.ui:12026
 msgctxt "notebookbar_compact|ImageLabel"
 msgid "Ima~ge"
-msgstr ""
+msgstr "画像(~G)"
 
 #. 8eQN8
 #: sw/uiconfig/swriter/ui/notebookbar_compact.ui:13454
 msgctxt "notebookbar_compact|DrawMenuButton"
 msgid "D_raw"
-msgstr ""
+msgstr "図形描画(_R)"
 
 #. FBf68
 #: sw/uiconfig/swriter/ui/notebookbar_compact.ui:13509
 msgctxt "notebookbar_compact|ShapeLabel"
 msgid "~Draw"
-msgstr ""
+msgstr "図形描画(~D)"
 
 #. DoVwy
 #: sw/uiconfig/swriter/ui/notebookbar_compact.ui:14575
@@ -20693,25 +20693,25 @@ msgstr "印刷(~P)"
 #: sw/uiconfig/swriter/ui/notebookbar_compact.ui:17613
 msgctxt "notebookbar_compact|FormButton"
 msgid "Fo_rm"
-msgstr ""
+msgstr "フォーム(_R)"
 
 #. EKA8X
 #: sw/uiconfig/swriter/ui/notebookbar_compact.ui:17668
 msgctxt "notebookbar_compact|FormLabel"
 msgid "Fo~rm"
-msgstr ""
+msgstr "フォーム(~R)"
 
 #. 8SvE5
 #: sw/uiconfig/swriter/ui/notebookbar_compact.ui:17748
 msgctxt "notebookbar_compact|ExtensionMenuButton"
 msgid "E_xtension"
-msgstr ""
+msgstr "拡張機能(_X)"
 
 #. WH5NR
 #: sw/uiconfig/swriter/ui/notebookbar_compact.ui:17806
 msgctxt "notebookbar_compact|ExtensionLabel"
 msgid "E~xtension"
-msgstr ""
+msgstr "拡張機能(~X)"
 
 #. 8fhwb
 #: sw/uiconfig/swriter/ui/notebookbar_compact.ui:18839
@@ -20802,31 +20802,31 @@ msgstr "表示(_V)"
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:12371
 msgctxt "notebookbar_groupedbar_compact|FormButton"
 msgid "Fo_rm"
-msgstr ""
+msgstr "フォーム(_R)"
 
 #. 5fAr4
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:5128
 msgctxt "notebookbar_groupedbar_compact|ExtensionMenuButton"
 msgid "E_xtension"
-msgstr ""
+msgstr "拡張機能(_X)"
 
 #. Tgwxy
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:5854
 msgctxt "notebookbar_groupedbar_compact|rowscolumnst"
 msgid "_Table"
-msgstr ""
+msgstr "表(_T)"
 
 #. GHcYf
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:6345
 msgctxt "notebookbar_groupedbar_compact|CalculateButton"
 msgid "_Calc"
-msgstr "計算(_C)"
+msgstr "表計算(_C)"
 
 #. DC7Hv
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:6608
 msgctxt "notebookbar_groupedbar_compact|editdrawb"
 msgid "D_raw"
-msgstr ""
+msgstr "図形描画(_R)"
 
 #. ncAKi
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:6993
@@ -20859,7 +20859,7 @@ msgstr "3_D"
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:8028
 msgctxt "notebookbar_groupedbar_compact|GridButton"
 msgid "_Fontwork"
-msgstr ""
+msgstr "フォントワーク(_F)"
 
 #. PLqyG
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:8142
@@ -20873,37 +20873,37 @@ msgstr "グリッド線(_G)"
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:8283
 msgctxt "notebookbar_groupedbar_compact|ImageButton"
 msgid "_Image"
-msgstr ""
+msgstr "画像(_I)"
 
 #. SEFWn
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:9013
 msgctxt "notebookbar_groupedbar_compact|ColorButton"
 msgid "Fi_lter"
-msgstr ""
+msgstr "フィルター(_L)"
 
 #. 5a4zV
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:9431
 msgctxt "notebookbar_groupedbar_compact|graphicB"
 msgid "_Object"
-msgstr ""
+msgstr "オブジェクト(_O)"
 
 #. q3Fbm
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:10193
 msgctxt "notebookbar_groupedbar_compact|graphicB"
 msgid "F_rame"
-msgstr ""
+msgstr "枠(_R)"
 
 #. Ghwp6
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:10563
 msgctxt "notebookbar_groupedbar_compact|graphicB"
 msgid "_Media"
-msgstr ""
+msgstr "メディア(_M)"
 
 #. bRfaC
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:11215
 msgctxt "notebookbar_groupedbar_compact|PrintMenuButton"
 msgid "_Layout"
-msgstr ""
+msgstr "レイアウト(_L)"
 
 #. PhCFL
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_compact.ui:11617
@@ -21036,13 +21036,13 @@ msgstr "表示(_V)"
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_full.ui:16285
 msgctxt "notebookbar_groupedbar_full|FormButton"
 msgid "Fo_rm"
-msgstr ""
+msgstr "フォーム(_R)"
 
 #. XNJZd
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_full.ui:7185
 msgctxt "notebookbar_groupedbar_full|TableButton"
 msgid "T_able"
-msgstr ""
+msgstr "表(_A)"
 
 #. ao9tD
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_full.ui:7384
@@ -21090,7 +21090,7 @@ msgstr "比較(_P)"
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_full.ui:10429
 msgctxt "notebookbar_groupedbar_full|DrawButton"
 msgid "D_raw"
-msgstr ""
+msgstr "図形描画(_R)"
 
 #. gPK7A
 #: sw/uiconfig/swriter/ui/notebookbar_groupedbar_full.ui:10740
@@ -23698,7 +23698,7 @@ msgstr "間隔:"
 #: sw/uiconfig/swriter/ui/pagefooterpanel.ui:49
 msgctxt "pagefooterpanel|samecontent"
 msgid "Same Content:"
-msgstr "同じ内容:"
+msgstr "内容:"
 
 #. rdLFC
 #: sw/uiconfig/swriter/ui/pagefooterpanel.ui:95
@@ -23788,7 +23788,7 @@ msgstr "間隔:"
 #: sw/uiconfig/swriter/ui/pageheaderpanel.ui:49
 msgctxt "pageheaderpanel|samecontent"
 msgid "Same Content:"
-msgstr "同じ内容:"
+msgstr "内容:"
 
 #. 7JKbe
 #: sw/uiconfig/swriter/ui/pageheaderpanel.ui:95
@@ -24184,7 +24184,7 @@ msgstr "上下(_V)"
 #: sw/uiconfig/swriter/ui/picturepage.ui:140
 msgctxt "picturepage|extended_tip|vert"
 msgid "Flips the selected image vertically."
-msgstr ""
+msgstr "選択した画像を垂直方向に反転します。"
 
 #. jwAir
 #: sw/uiconfig/swriter/ui/picturepage.ui:151
@@ -24196,7 +24196,7 @@ msgstr "左右(_Z)"
 #: sw/uiconfig/swriter/ui/picturepage.ui:160
 msgctxt "picturepage|extended_tip|hori"
 msgid "Flips the selected image horizontally."
-msgstr ""
+msgstr "選択した画像を水平方向に反転します。"
 
 #. F3zpM
 #: sw/uiconfig/swriter/ui/picturepage.ui:171
@@ -24208,7 +24208,7 @@ msgstr "すべてのページ"
 #: sw/uiconfig/swriter/ui/picturepage.ui:182
 msgctxt "picturepage|extended_tip|allpages"
 msgid "Flips the selected image horizontally on all pages."
-msgstr ""
+msgstr "すべてのページの選択した画像を水平方向に反転します。"
 
 #. FX5Cn
 #: sw/uiconfig/swriter/ui/picturepage.ui:193
@@ -24220,7 +24220,7 @@ msgstr "左ページ"
 #: sw/uiconfig/swriter/ui/picturepage.ui:204
 msgctxt "picturepage|extended_tip|leftpages"
 msgid "Flips the selected image horizontally only on even pages."
-msgstr ""
+msgstr "選択した画像で左ページのみにある画像を水平方向に反転します。"
 
 #. 6eLFK
 #: sw/uiconfig/swriter/ui/picturepage.ui:215
@@ -24232,7 +24232,7 @@ msgstr "右ページ"
 #: sw/uiconfig/swriter/ui/picturepage.ui:226
 msgctxt "picturepage|extended_tip|rightpages"
 msgid "Flips the selected image horizontally only on odd pages."
-msgstr ""
+msgstr "選択した画像で右ページのみにある画像を水平方向に反転します。"
 
 #. M9Lxh
 #: sw/uiconfig/swriter/ui/picturepage.ui:275
@@ -24256,7 +24256,7 @@ msgstr "回転角度"
 #: sw/uiconfig/swriter/ui/picturepage.ui:373
 msgctxt "picturepage|FT_ANGLEPRESETS"
 msgid "Default _settings:"
-msgstr "デフォルトの設定(_S):"
+msgstr "規定の設定(_S):"
 
 #. HpCfF
 #: sw/uiconfig/swriter/ui/picturepage.ui:398
@@ -24268,7 +24268,7 @@ msgstr "回転角度"
 #: sw/uiconfig/swriter/ui/picturepage.ui:414
 msgctxt "picturepage|extended_tip|PicturePage"
 msgid "Specify the flip and the link options for the selected image."
-msgstr ""
+msgstr "選択した画像の反転とリンクの設定をします。"
 
 #. fSmkv
 #: sw/uiconfig/swriter/ui/previewzoomdialog.ui:22
@@ -25544,13 +25544,13 @@ msgstr ""
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:18
 msgctxt "selectaddressdialog|SelectAddressDialog"
 msgid "Select Address List"
-msgstr "アドレスリストの選択"
+msgstr "アドレス帳の選択"
 
 #. uEB4J
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:96
 msgctxt "selectaddressdialog|desc"
 msgid "Select an address list. Click '%1' to select recipients from a different list. If you do not have an address list you can create one by clicking '%2'."
-msgstr "アドレスリストを選択します。別のリストから宛先を選択する場合は、'%1' をクリックします。アドレスリストがない場合は、'%2' をクリックして作成します。"
+msgstr "アドレス帳を選択します。別のアドレス帳から受信者を選択する場合は「%1」をクリックします。アドレス帳がない場合は「%2」をクリックするとアドレス帳を作成できます。"
 
 #. WkuFD
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:120
@@ -25568,7 +25568,7 @@ msgstr "追加(_A)..."
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:144
 msgctxt "selectaddressdialog|extended_tip|add"
 msgid "Select the database file that contains the addresses that you want to use as an address list."
-msgstr "アドレスリストとして使用するアドレスを含むデータベースファイルを選択します。"
+msgstr "アドレス帳として使用するアドレスを含むデータベースファイルを選択します。"
 
 #. Xh7Pc
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:156
@@ -25586,7 +25586,7 @@ msgstr "作成(_C)..."
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:177
 msgctxt "selectaddressdialog|extended_tip|create"
 msgid "Opens the New Address List dialog, where you can create a new address list."
-msgstr "新しいアドレスリストを作成できる 新規アドレスリスト ダイアログを開きます。"
+msgstr "新規アドレス帳ダイアログを開いて、新しいアドレス帳を作成します。"
 
 #. uwBMk
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:189
@@ -25598,7 +25598,7 @@ msgstr "フィルター(_F)..."
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:196
 msgctxt "selectaddressdialog|extended_tip|filter"
 msgid "Opens the Standard Filter dialog , where you can apply filters to the address list to display the recipients that you want to see."
-msgstr "フィルターをアドレスリストに適用して、希望の受信者を表示できる 標準フィルター ダイアログを開きます。"
+msgstr "フィルターをアドレス帳に適用して、希望の受信者を表示できる 標準フィルター ダイアログを開きます。"
 
 #. XLNrP
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:208
@@ -25610,7 +25610,7 @@ msgstr "編集(_E)..."
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:215
 msgctxt "selectaddressdialog|extended_tip|edit"
 msgid "Opens the New Address List dialog, where you can edit the selected address list."
-msgstr "選択したアドレスリストを編集できる 新規アドレスリスト ダイアログを開きます。"
+msgstr "選択したアドレス帳を編集するために「新規アドレス帳」ダイアログを開きます。"
 
 #. taJUf
 #: sw/uiconfig/swriter/ui/selectaddressdialog.ui:227
@@ -25796,7 +25796,7 @@ msgstr "テーブルの選択"
 #: sw/uiconfig/swriter/ui/selecttabledialog.ui:99
 msgctxt "selecttabledialog|select"
 msgid "The file you have selected contains more than one table. Please select the table containing the address list you want to use."
-msgstr "選択されたファイルには、複数のテーブルが含まれています。使用するアドレスリストが含まれているテーブルを選択してください。"
+msgstr "選択されたファイルには、複数のテーブルが含まれています。使用するアドレス帳が含まれているテーブルを選択してください。"
 
 #. Fmgdg
 #: sw/uiconfig/swriter/ui/selecttabledialog.ui:136
@@ -29070,14 +29070,14 @@ msgstr "スペースを含めた文字数"
 #: sw/uiconfig/swriter/ui/wordcount-mobile.ui:303
 msgctxt "wordcount-mobile|label3"
 msgid "Characters excluding spaces"
-msgstr "スペースを除く文字数"
+msgstr "スペースを除いた文字数"
 
 #. wZHMX
 #: sw/uiconfig/swriter/ui/wordcount-mobile.ui:207
 #: sw/uiconfig/swriter/ui/wordcount-mobile.ui:279
 msgctxt "wordcount-mobile|cjkcharsft"
 msgid "Asian characters and Korean syllables"
-msgstr "アジア文字と韓国語音節"
+msgstr "漢字/かな/ハングル"
 
 #. mfBEG
 #: sw/uiconfig/swriter/ui/wordcount-mobile.ui:231
@@ -29120,7 +29120,7 @@ msgstr "スペースを含めた文字数"
 #: sw/uiconfig/swriter/ui/wordcount.ui:110
 msgctxt "wordcount|label3"
 msgid "Characters excluding spaces"
-msgstr "スペースを除く文字数"
+msgstr "スペースを除いた文字数"
 
 #. 2Dc8B
 #: sw/uiconfig/swriter/ui/wordcount.ui:168
@@ -29138,7 +29138,7 @@ msgstr "ドキュメント"
 #: sw/uiconfig/swriter/ui/wordcount.ui:242
 msgctxt "wordcount|cjkcharsft"
 msgid "Asian characters and Korean syllables"
-msgstr "アジア文字と韓国語音節"
+msgstr "漢字/かな/ハングル"
 
 #. dZmso
 #: sw/uiconfig/swriter/ui/wordcount.ui:284
@@ -29162,7 +29162,7 @@ msgstr "折り返し"
 #: sw/uiconfig/swriter/ui/wrapdialog.ui:91
 msgctxt "wrapdialog|extended_tip|WrapDialog"
 msgid "Specify the way you want text to wrap around an object."
-msgstr ""
+msgstr "オブジェクトへのテキストの回り込み方法を指定します。"
 
 #. kvc2L
 #: sw/uiconfig/swriter/ui/wrappage.ui:59
@@ -29174,7 +29174,7 @@ msgstr "上下(_W)"
 #: sw/uiconfig/swriter/ui/wrappage.ui:75
 msgctxt "wrappage|extended_tip|none"
 msgid "Places the object on a separate line in the document. The Text in the document appears above and below the object, but not on the sides of the object."
-msgstr ""
+msgstr "ドキュメントのテキストはオブジェクトを挟んで回り込みます。テキストは、オブジェクトの上下にはありますが、オブジェクトの側面には回り込みません。"
 
 #. VCQDF
 #: sw/uiconfig/swriter/ui/wrappage.ui:86
@@ -29186,7 +29186,7 @@ msgstr "左側(_F)"
 #: sw/uiconfig/swriter/ui/wrappage.ui:102
 msgctxt "wrappage|extended_tip|before"
 msgid "Wraps text on the left side of the object if there is enough space."
-msgstr ""
+msgstr "スペースがある場合、テキストはオブジェクトの左側に回り込みます。"
 
 #. g5Tik
 #: sw/uiconfig/swriter/ui/wrappage.ui:113
@@ -29198,7 +29198,7 @@ msgstr "右側(_E)"
 #: sw/uiconfig/swriter/ui/wrappage.ui:129
 msgctxt "wrappage|extended_tip|after"
 msgid "Wraps text on the right side of the object if there is enough space."
-msgstr ""
+msgstr "スペースがある場合、テキストは右側に回り込みます。"
 
 #. NZJkB
 #: sw/uiconfig/swriter/ui/wrappage.ui:140
@@ -29210,7 +29210,7 @@ msgstr "両側(_P)"
 #: sw/uiconfig/swriter/ui/wrappage.ui:156
 msgctxt "wrappage|extended_tip|parallel"
 msgid "Wraps text on all four sides of the border frame of the object."
-msgstr ""
+msgstr "オブジェクト輪郭の上下左右すべての方向にテキストが回り込みます。"
 
 #. cES6o
 #: sw/uiconfig/swriter/ui/wrappage.ui:167
@@ -29222,7 +29222,7 @@ msgstr "折り返しなし(_U)"
 #: sw/uiconfig/swriter/ui/wrappage.ui:183
 msgctxt "wrappage|extended_tip|through"
 msgid "Places the object in front of the text."
-msgstr ""
+msgstr "オブジェクトをテキストの前面に配置して回り込みしません"
 
 #. ZjSbB
 #: sw/uiconfig/swriter/ui/wrappage.ui:194
@@ -29234,7 +29234,7 @@ msgstr "左右動的(_O)"
 #: sw/uiconfig/swriter/ui/wrappage.ui:210
 msgctxt "wrappage|extended_tip|optimal"
 msgid "Automatically wraps text to the left, to the right, or on all four sides of the border frame of the object. If the distance between the object and the page margin is less than 2 cm, the text is not wrapped."
-msgstr ""
+msgstr "オブジェクト輪郭の左側、右側または上下左右すべての方向に自動的にテキストを回り込ませます。オブジェクトとページ余白の間隔が2cm以下の場合は、テキストは回り込みません。"
 
 #. FezRV
 #: sw/uiconfig/swriter/ui/wrappage.ui:227
@@ -29306,7 +29306,7 @@ msgstr "最初の段落(_F)"
 #: sw/uiconfig/swriter/ui/wrappage.ui:459
 msgctxt "wrappage|extended_tip|anchoronly"
 msgid "Starts a new paragraph below the object after you press Enter."
-msgstr ""
+msgstr "オブジェクトの後ろでEnterキーを押すと、新しい段落はオブジェクトの下から始まります。"
 
 #. XDTDj
 #: sw/uiconfig/swriter/ui/wrappage.ui:470
@@ -29318,7 +29318,7 @@ msgstr "背景に(_K)"
 #: sw/uiconfig/swriter/ui/wrappage.ui:479
 msgctxt "wrappage|extended_tip|transparent"
 msgid "Moves the selected object to the background. This option is only available if you selected the Through wrap type."
-msgstr ""
+msgstr "選択したオブジェクトを背景に移動します。このオプションは「折り返しなし」を選んだ場合のみ有効です。"
 
 #. GYAAU
 #: sw/uiconfig/swriter/ui/wrappage.ui:490
@@ -29330,7 +29330,7 @@ msgstr "輪郭(_C)"
 #: sw/uiconfig/swriter/ui/wrappage.ui:499
 msgctxt "wrappage|extended_tip|outline"
 msgid "Wraps text around the shape of the object. This option is not available for the Through wrap type, or for frames."
-msgstr ""
+msgstr "オブジェクトの形に合わせてテキストを折り返します。このオプションは「折り返しなし」や枠には使用できません。"
 
 #. dcKxZ
 #: sw/uiconfig/swriter/ui/wrappage.ui:510
@@ -29342,7 +29342,7 @@ msgstr "外側のみ"
 #: sw/uiconfig/swriter/ui/wrappage.ui:519
 msgctxt "wrappage|extended_tip|outside"
 msgid "Wraps text only around the contour of the object, but not in open areas within the object shape."
-msgstr "テキストをオブジェクトの輪郭で折り返させますが、オブジェクト内部の空間には侵入させません。"
+msgstr "テキストはオブジェクトの輪郭に沿って回り込みますが、オブジェクトの中には回り込みません。"
 
 #. Ts8tC
 #: sw/uiconfig/swriter/ui/wrappage.ui:530
@@ -29360,4 +29360,4 @@ msgstr "オプション"
 #: sw/uiconfig/swriter/ui/wrappage.ui:571
 msgctxt "wrappage|extended_tip|WrapPage"
 msgid "Specify the way you want text to wrap around an object."
-msgstr ""
+msgstr "オブジェクトへのテキストの回り込み方法を指定します。"

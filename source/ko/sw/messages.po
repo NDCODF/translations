@@ -3,17 +3,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
-"POT-Creation-Date: 2021-03-10 16:23+0100\n"
-"PO-Revision-Date: 2020-11-19 20:36+0000\n"
-"Last-Translator: Sungjoon Moon <sjmoon2001@gmail.com>\n"
-"Language-Team: Korean <https://weblate.documentfoundation.org/projects/libo_ui-master/swmessages/ko/>\n"
+"POT-Creation-Date: 2021-08-16 16:11+0200\n"
+"PO-Revision-Date: 2021-08-25 07:14+0000\n"
+"Last-Translator: DaeHyun Sung(성대현, 成大鉉) <sungdh86@gmail.com>\n"
+"Language-Team: Korean <https://translations.documentfoundation.org/projects/libo_ui-7-1/swmessages/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
+"X-Generator: Weblate 4.6.2\n"
 "X-POOTLE-MTIME: 1561793200.000000\n"
 
 #. v3oJv
@@ -10171,55 +10171,55 @@ msgid "Assign Styles"
 msgstr "스타일 지정"
 
 #. JVyGG
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:202
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:203
 msgctxt "assignstylesdialog|left|tooltip_text"
 msgid "Promote level"
 msgstr ""
 
 #. szu9U
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:206
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:207
 msgctxt "assignstylesdialog|left-atkobject"
 msgid "Left"
 msgstr "왼쪽"
 
 #. KurCF
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:207
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:208
 msgctxt "assignstylesdialog|extended_tip|left"
 msgid "Moves the selected paragraph style up one level in the index hierarchy."
 msgstr "선택한 단락 스타일을 색인 계층 구조에서 한 수준 위로 이동합니다."
 
 #. ScVY5
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:222
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:223
 msgctxt "assignstylesdialog|right|tooltip_text"
 msgid "Demote level"
 msgstr ""
 
 #. 6aqvE
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:226
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:227
 msgctxt "assignstylesdialog|right-atkobject"
 msgid "Right"
 msgstr "오른쪽"
 
 #. vmpZc
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:227
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:228
 msgctxt "assignstylesdialog|extended_tip|right"
 msgid "Moves the selected paragraph style down one level in the index hierarchy."
 msgstr "선택한 단락 스타일을 색인 계층 구조에서 한 수준 아래로 이동합니다."
 
 #. tF4xa
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:273
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:274
 msgctxt "assignstylesdialog|stylecolumn"
 msgid "Style"
 msgstr ""
 
 #. 3MYjK
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:465
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:466
 msgctxt "assignstylesdialog|label3"
 msgid "Styles"
 msgstr "스타일"
 
 #. sr78E
-#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:490
+#: sw/uiconfig/swriter/ui/assignstylesdialog.ui:491
 msgctxt "assignstylesdialog|extended_tip|AssignStylesDialog"
 msgid "Creates index entries from specific paragraph styles."
 msgstr "특정 단락 스타일로부터 색인 항목을 만듭니다."
@@ -12584,10 +12584,9 @@ msgstr "본문과의 간격(_S):"
 
 #. hsw2F
 #: sw/uiconfig/swriter/ui/dropcapspage.ui:154
-#, fuzzy
 msgctxt "dropcapspage|extended_tip|spinFLD_DROPCAPS"
 msgid "Enter the number of characters to convert to drop caps."
-msgstr "단락 첫문자 장식 설정으로 변환할 문자 수를 입력합니다. "
+msgstr "단락 첫문자 장식 설정으로 변환할 문자 수를 입력합니다."
 
 #. mTJvq
 #: sw/uiconfig/swriter/ui/dropcapspage.ui:173
@@ -13765,10 +13764,9 @@ msgstr "다음 위치에서만 찾기(_O)"
 
 #. vXdjr
 #: sw/uiconfig/swriter/ui/findentrydialog.ui:151
-#, fuzzy
 msgctxt "findentrydialog|extended_tip|findin"
 msgid "Restricts the search to one data field."
-msgstr "검색을 한 개의 데이터 필드로 제한합니다. "
+msgstr "검색을 한 개의 데이터 필드로 제한합니다."
 
 #. LA7X8
 #: sw/uiconfig/swriter/ui/findentrydialog.ui:170

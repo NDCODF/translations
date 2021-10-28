@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2021-07-01 19:39+0200\n"
-"PO-Revision-Date: 2021-07-16 18:31+0000\n"
+"PO-Revision-Date: 2021-08-25 07:14+0000\n"
 "Last-Translator: Christian Kühl <kuehl.christian@googlemail.com>\n"
 "Language-Team: German <https://translations.documentfoundation.org/projects/libo_ui-7-1/cuimessages/de/>\n"
 "Language: de\n"
@@ -5390,7 +5390,7 @@ msgstr "Hier können Sie die Eigenschaften der Verknüpfungen im aktuellen Dokum
 #: cui/uiconfig/ui/bitmaptabpage.ui:66
 msgctxt "bitmaptabpage|BTN_IMPORT"
 msgid "Add / Import"
-msgstr "_Importieren"
+msgstr "Importieren"
 
 #. DwGRp
 #: cui/uiconfig/ui/bitmaptabpage.ui:72
@@ -5450,7 +5450,7 @@ msgstr "Höh_e:"
 #: cui/uiconfig/ui/bitmaptabpage.ui:271
 msgctxt "bitmaptabpage|scaletsb"
 msgid "Scale"
-msgstr "_Skalierung"
+msgstr "_Skalieren"
 
 #. r9QEy
 #: cui/uiconfig/ui/bitmaptabpage.ui:302
@@ -8276,7 +8276,7 @@ msgstr "Nach oben verschieben"
 #: cui/uiconfig/ui/editmodulesdialog.ui:207
 msgctxt "up"
 msgid "Increases the priority of the module selected in the list box by one level."
-msgstr "Erhöht die Priorität des im Listenfeld ausgewählten Moduls um eine Stufe."
+msgstr "Vergrößert die Priorität des im Listenfeld ausgewählten Moduls um eine Stufe."
 
 #. aGo9M
 #: cui/uiconfig/ui/editmodulesdialog.ui:219
@@ -8288,7 +8288,7 @@ msgstr "Nach unten verschieben"
 #: cui/uiconfig/ui/editmodulesdialog.ui:226
 msgctxt "down"
 msgid "Decreases the priority of the module selected in the list box by one level."
-msgstr "Verringert die Priorität des im Listenfeld ausgewählten Moduls um eine Stufe."
+msgstr "Verkleinert die Priorität des im Listenfeld ausgewählten Moduls um eine Stufe."
 
 #. Vr5kM
 #: cui/uiconfig/ui/editmodulesdialog.ui:238
@@ -16884,7 +16884,7 @@ msgstr "Skia für das Rendern verwenden"
 #: cui/uiconfig/ui/optviewpage.ui:599
 msgctxt "optviewpage|forceskiaraster"
 msgid "Force Skia software rendering"
-msgstr "Rendern der Skia-Software erzwingen"
+msgstr "Rendern mittels Skia-Software erzwingen"
 
 #. DTMxy
 #: cui/uiconfig/ui/optviewpage.ui:603
@@ -19949,7 +19949,7 @@ msgstr "An der _Seite"
 #: cui/uiconfig/ui/swpossizepage.ui:252
 msgctxt "swpossizepage|extended_tip|topage"
 msgid "Anchors the selection to the current page."
-msgstr "Verankert ausgewählte Objekt an der aktuellen Seite."
+msgstr "Verankert das ausgewählte Objekt an der aktuellen Seite."
 
 #. 7GtoG
 #: cui/uiconfig/ui/swpossizepage.ui:263
@@ -20825,7 +20825,7 @@ msgstr "Das Wort oder die Wörter im Feld \"Ersetzen durch\" ersetzen das Origin
 #: cui/uiconfig/ui/thesaurus.ui:172
 msgctxt "thesaurus|extended_tip|left"
 msgid "Recalls the previous contents of the \"Current word\" text box."
-msgstr "Stellt den vorigen Inhalt des Textfeldes \"Aktuellen Wort\" wieder her."
+msgstr "Stellt den vorherigen Inhalt des Textfeldes \"Aktuellen Wort\" wieder her."
 
 #. MysZM
 #: cui/uiconfig/ui/thesaurus.ui:188
