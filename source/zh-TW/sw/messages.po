@@ -2937,67 +2937,67 @@ msgstr "索引分隔符"
 #: sw/inc/strings.hrc:151
 msgctxt "STR_POOLCOLL_TOX_CNTNTH"
 msgid "Contents Heading"
-msgstr "目次標題"
+msgstr "目錄標題"
 
 #. 2kfKD
 #: sw/inc/strings.hrc:152
 msgctxt "STR_POOLCOLL_TOX_CNTNT1"
 msgid "Contents 1"
-msgstr "目次 1"
+msgstr "目錄 1"
 
 #. Cyovw
 #: sw/inc/strings.hrc:153
 msgctxt "STR_POOLCOLL_TOX_CNTNT2"
 msgid "Contents 2"
-msgstr "目次 2"
+msgstr "目錄 2"
 
 #. CeCEB
 #: sw/inc/strings.hrc:154
 msgctxt "STR_POOLCOLL_TOX_CNTNT3"
 msgid "Contents 3"
-msgstr "目次 3"
+msgstr "目錄 3"
 
 #. xvFCu
 #: sw/inc/strings.hrc:155
 msgctxt "STR_POOLCOLL_TOX_CNTNT4"
 msgid "Contents 4"
-msgstr "目次 4"
+msgstr "目錄 4"
 
 #. ZhkVH
 #: sw/inc/strings.hrc:156
 msgctxt "STR_POOLCOLL_TOX_CNTNT5"
 msgid "Contents 5"
-msgstr "目次 5"
+msgstr "目錄 5"
 
 #. fUc7s
 #: sw/inc/strings.hrc:157
 msgctxt "STR_POOLCOLL_TOX_CNTNT6"
 msgid "Contents 6"
-msgstr "目次 6"
+msgstr "目錄 6"
 
 #. njEgF
 #: sw/inc/strings.hrc:158
 msgctxt "STR_POOLCOLL_TOX_CNTNT7"
 msgid "Contents 7"
-msgstr "目次 7"
+msgstr "目錄 7"
 
 #. EtFWq
 #: sw/inc/strings.hrc:159
 msgctxt "STR_POOLCOLL_TOX_CNTNT8"
 msgid "Contents 8"
-msgstr "目次 8"
+msgstr "目錄 8"
 
 #. EbkDM
 #: sw/inc/strings.hrc:160
 msgctxt "STR_POOLCOLL_TOX_CNTNT9"
 msgid "Contents 9"
-msgstr "目次 9"
+msgstr "目錄 9"
 
 #. Y7Cms
 #: sw/inc/strings.hrc:161
 msgctxt "STR_POOLCOLL_TOX_CNTNT10"
 msgid "Contents 10"
-msgstr "目次 10"
+msgstr "目錄 10"
 
 #. C6qm4
 #: sw/inc/strings.hrc:162
@@ -4108,7 +4108,7 @@ msgstr "標題 1.1"
 #: sw/inc/strings.hrc:365
 msgctxt "STR_IDXEXAMPLE_IDXTXT_ENTRY11"
 msgid "This is the content from chapter 1.1. This is the entry for the table of contents."
-msgstr "這是 1.1 章節的內容。這是目次的條目。"
+msgstr "這是 1.1 章節的內容。這是目錄的條目。"
 
 #. bymGA
 #: sw/inc/strings.hrc:366
@@ -6092,7 +6092,7 @@ msgstr "使用者定義"
 #: sw/inc/strings.hrc:710
 msgctxt "STR_TOC"
 msgid "Table of Contents"
-msgstr "目次"
+msgstr "目錄"
 
 #. BESjb
 #: sw/inc/strings.hrc:711
@@ -27586,7 +27586,7 @@ msgstr "在你的文件中插入書名頁。"
 #: sw/uiconfig/swriter/ui/tocdialog.ui:8
 msgctxt "tocdialog|TocDialog"
 msgid "Table of Contents, Index or Bibliography"
-msgstr "目次、索引或參考文獻"
+msgstr "目錄、索引或參考文獻"
 
 #. 49G83
 #: sw/uiconfig/swriter/ui/tocdialog.ui:87
@@ -28144,7 +28144,7 @@ msgstr "類型："
 #: sw/uiconfig/swriter/ui/tocindexpage.ui:145
 msgctxt "tocindexpage|liststore1"
 msgid "Table of Contents"
-msgstr "目次"
+msgstr "目錄"
 
 #. hP5JM
 #: sw/uiconfig/swriter/ui/tocindexpage.ui:146
@@ -28246,7 +28246,7 @@ msgstr "輸入索引中要包含的標題級數目。"
 #: sw/uiconfig/swriter/ui/tocindexpage.ui:324
 msgctxt "tocindexpage|label1"
 msgid "Create Index or Table of Contents"
-msgstr "建立索引或目次"
+msgstr "建立索引或目錄"
 
 #. 36kXs
 #: sw/uiconfig/swriter/ui/tocindexpage.ui:366
