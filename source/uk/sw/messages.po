@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2021-08-16 16:11+0200\n"
-"PO-Revision-Date: 2021-05-13 13:37+0000\n"
+"PO-Revision-Date: 2021-10-16 19:36+0000\n"
 "Last-Translator: Olexandr Pylypchuk <pilipchukap@rambler.ru>\n"
 "Language-Team: Ukrainian <https://translations.documentfoundation.org/projects/libo_ui-7-1/swmessages/uk/>\n"
 "Language: uk\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: LibreOffice\n"
+"X-Generator: Weblate 4.8.1\n"
 "X-POOTLE-MTIME: 1565448874.000000\n"
 
 #. v3oJv
@@ -2415,7 +2415,7 @@ msgstr "Позначки"
 #: sw/inc/strings.hrc:64
 msgctxt "STR_POOLCOLL_STANDARD"
 msgid "Default Paragraph Style"
-msgstr "Типовий стиль параграфа"
+msgstr "Типовий стиль абзацу"
 
 #. AGD4Q
 #: sw/inc/strings.hrc:65
@@ -16994,7 +16994,7 @@ msgstr ""
 #: sw/uiconfig/swriter/ui/insertdbcolumnsdialog.ui:338
 msgctxt "insertdbcolumnsdialog|extended_tip|toedit"
 msgid "Moves the fields that you selected in the Database columns list box into the selection field."
-msgstr ""
+msgstr "Переміщує поля, вибрані зі списку стовпчиків бази даних, у поле виділення."
 
 #. 2NBVw
 #: sw/uiconfig/swriter/ui/insertdbcolumnsdialog.ui:356
@@ -18092,7 +18092,7 @@ msgstr "Авторизація на се_рвері…"
 #: sw/uiconfig/swriter/ui/mailconfigpage.ui:239
 msgctxt "extended_tip|serverauthentication"
 msgid "Opens the Server Authentication dialog where you can specify the server authentication settings for secure email."
-msgstr ""
+msgstr "Відкриває діалогове вікно «Авторизація на сервері», де можна вказати параметри сервера для безпечної електронної пошти."
 
 #. AqgAF
 #: sw/uiconfig/swriter/ui/mailconfigpage.ui:263
@@ -22529,31 +22529,31 @@ msgstr "Вільний курсор"
 #: sw/uiconfig/swriter/ui/optformataidspage.ui:528
 msgctxt "optformataidspage|anchor"
 msgid "_Anchor:"
-msgstr ""
+msgstr "_Прив'язка:"
 
 #. 4ahDA
 #: sw/uiconfig/swriter/ui/optformataidspage.ui:545
 msgctxt "optformataidspage|cxDefaultAnchor1"
 msgid "To Paragraph"
-msgstr ""
+msgstr "До абзацу"
 
 #. Fxh2u
 #: sw/uiconfig/swriter/ui/optformataidspage.ui:546
 msgctxt "optformataidspage|cxDefaultAnchor2"
 msgid "To Character"
-msgstr ""
+msgstr "До символу"
 
 #. rafqG
 #: sw/uiconfig/swriter/ui/optformataidspage.ui:547
 msgctxt "optformataidspage|cxDefaultAnchor3"
 msgid "As Character"
-msgstr ""
+msgstr "Як символ"
 
 #. B3qDX
 #: sw/uiconfig/swriter/ui/optformataidspage.ui:564
 msgctxt "optformataidspage|lbImage"
 msgid "Image"
-msgstr ""
+msgstr "Зображення"
 
 #. npuVw
 #: sw/uiconfig/swriter/ui/optformataidspage.ui:592
@@ -24615,7 +24615,7 @@ msgstr "Коментарі"
 #: sw/uiconfig/swriter/ui/printoptionspage.ui:476
 msgctxt "printoptionspage|label5"
 msgid "_Fax:"
-msgstr ""
+msgstr "_Факс:"
 
 #. CFCk9
 #: sw/uiconfig/swriter/ui/printoptionspage.ui:481

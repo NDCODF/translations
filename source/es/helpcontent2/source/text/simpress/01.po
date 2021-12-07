@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2020-10-27 12:31+0100\n"
-"PO-Revision-Date: 2021-09-01 12:16+0000\n"
+"PO-Revision-Date: 2021-10-23 14:37+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fito@libreoffice.org>\n"
 "Language-Team: Spanish <https://translations.documentfoundation.org/projects/libo_help-7-1/textsimpress01/es/>\n"
 "Language: es\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: Weblate 4.6.2\n"
+"X-Generator: Weblate 4.8.1\n"
 "X-POOTLE-MTIME: 1544632647.000000\n"
 
 #. mu9aV
@@ -788,7 +788,7 @@ msgctxt ""
 "hd_id4969328\n"
 "help.text"
 msgid "Show Shapes"
-msgstr "Muestra las formas"
+msgstr "Mostrar formas"
 
 #. XD7nV
 #: 02110000.xhp
@@ -1265,7 +1265,7 @@ msgctxt ""
 "hd_id3149211\n"
 "help.text"
 msgid "Cross-fade attributes"
-msgstr "Cubrir atributos"
+msgstr "Disolver atributos"
 
 #. CBLTE
 #: 02150000.xhp
@@ -1850,7 +1850,7 @@ msgctxt ""
 "tit\n"
 "help.text"
 msgid "Master"
-msgstr "Maestro"
+msgstr "Patrón"
 
 #. K5LLZ
 #: 03150000.xhp
@@ -1868,7 +1868,7 @@ msgctxt ""
 "hd_id3153142\n"
 "help.text"
 msgid "<link href=\"text/simpress/01/03150000.xhp\" name=\"Master\">Master</link>"
-msgstr "<link href=\"text/simpress/01/03150000.xhp\" name=\"Master\">Maestro</link>"
+msgstr "<link href=\"text/simpress/01/03150000.xhp\" name=\"Master\">Patrón</link>"
 
 #. WeTWx
 #: 03150000.xhp
@@ -2174,7 +2174,7 @@ msgctxt ""
 "bm_id1374858\n"
 "help.text"
 msgid "<bookmark_value>slides;page numbers</bookmark_value><bookmark_value>slides;headers and footers</bookmark_value><bookmark_value>footers;slides</bookmark_value><bookmark_value>headers and footers;slides</bookmark_value>"
-msgstr "<bookmark_value>diapositivas;números de página</bookmark_value><bookmark_value>diapositivas;encabezados y pies de página</bookmark_value><bookmark_value>pies de página;diapositivas</bookmark_value><bookmark_value>encabezados y pies de página;diapositivas</bookmark_value>"
+msgstr "<bookmark_value>diapositivas;números de página</bookmark_value><bookmark_value>diapositivas;cabeceras y pies</bookmark_value><bookmark_value>pies;diapositivas</bookmark_value><bookmark_value>cabeceras y pies;diapositivas</bookmark_value>"
 
 #. H4rDe
 #: 03152000.xhp

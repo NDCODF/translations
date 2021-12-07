@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2021-01-30 14:55+0100\n"
-"PO-Revision-Date: 2021-08-25 07:14+0000\n"
+"PO-Revision-Date: 2021-10-14 22:36+0000\n"
 "Last-Translator: Tuomas Hietala <tuomas.hietala@iki.fi>\n"
 "Language-Team: Finnish <https://translations.documentfoundation.org/projects/libo_ui-7-1/scmessages/fi/>\n"
 "Language: fi\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: Weblate 4.6.2\n"
+"X-Generator: Weblate 4.8.1\n"
 "X-POOTLE-MTIME: 1565038740.000000\n"
 
 #. kBovX
@@ -2080,13 +2080,13 @@ msgstr "Virheellinen alue"
 #: sc/inc/globstr.hrc:370
 msgctxt "STR_CHARTTITLE"
 msgid "Chart Title"
-msgstr ""
+msgstr "Kaavion otsikko"
 
 #. yyY6k
 #: sc/inc/globstr.hrc:371
 msgctxt "STR_AXISTITLE"
 msgid "Axis Title"
-msgstr ""
+msgstr "Akselin otsikko"
 
 #. ANABc
 #. Templates for data pilot tables.
@@ -2703,13 +2703,13 @@ msgstr "on alle keskiarvon"
 #: sc/inc/globstr.hrc:466
 msgctxt "STR_COND_ABOVE_EQUAL_AVERAGE"
 msgid "is above or equal average"
-msgstr ""
+msgstr "on suurempi tai yhtä suuri kuin keskiarvo"
 
 #. GmUGP
 #: sc/inc/globstr.hrc:467
 msgctxt "STR_COND_BELOW_EQUAL_AVERAGE"
 msgid "is below or equal average"
-msgstr ""
+msgstr "on pienempi tai yhtä suuri kuin keskiarvo"
 
 #. 8DgQ9
 #: sc/inc/globstr.hrc:468
@@ -18126,10 +18126,9 @@ msgstr "Ennustettu Y"
 
 #. QFEjs
 #: sc/inc/strings.hrc:322
-#, fuzzy
 msgctxt "STR_LINEST_RAW_OUTPUT_TITLE"
 msgid "LINEST raw output"
-msgstr "LINEST-raakatulostus"
+msgstr "LINREGR-raakatulostus"
 
 #. bk7FH
 #. F Test
@@ -18859,10 +18858,9 @@ msgstr ""
 
 #. DYbCK
 #: sc/uiconfig/scalc/ui/autoformattable.ui:229
-#, fuzzy
 msgctxt "autoformattable|extended_tip|remove"
 msgid "Deletes the selected element or elements after confirmation."
-msgstr "Poistetaan valittu määrä osatekijöitä vahvistuskyselyn jälkeen."
+msgstr "Poistaa valitun elementin tai elementit vahvistuskyselyn jälkeen."
 
 #. YNp3m
 #: sc/uiconfig/scalc/ui/autoformattable.ui:241
@@ -19955,10 +19953,9 @@ msgstr ""
 
 #. ejKTF
 #: sc/uiconfig/scalc/ui/conditionalformatdialog.ui:210
-#, fuzzy
 msgctxt "conditionalformatdialog|extended_tip|delete"
 msgid "Deletes the selected element or elements without requiring confirmation."
-msgstr "Poistetaan valittu määrä osatekijöitä ilman vahvistuskyselyä."
+msgstr "Poistaa valitun elementin tai elementit kysymättä vahvistusta."
 
 #. fGKvB
 #: sc/uiconfig/scalc/ui/conditionalformatdialog.ui:229
@@ -20244,10 +20241,9 @@ msgstr ""
 
 #. 6SMrn
 #: sc/uiconfig/scalc/ui/consolidatedialog.ui:396
-#, fuzzy
 msgctxt "consolidatedialog|extended_tip|delete"
 msgid "Deletes the selected element or elements without requiring confirmation."
-msgstr "Poistetaan valittu määrä osatekijöitä ilman vahvistuskyselyä."
+msgstr "Poistaa valitun elementin tai elementit kysymättä vahvistusta."
 
 #. DLuPQ
 #: sc/uiconfig/scalc/ui/consolidatedialog.ui:416
@@ -21469,10 +21465,9 @@ msgstr "Muuta"
 
 #. AGETd
 #: sc/uiconfig/scalc/ui/definedatabaserangedialog.ui:330
-#, fuzzy
 msgctxt "definedatabaserangedialog|extended_tip|delete"
 msgid "Deletes the selected element or elements without requiring confirmation."
-msgstr "Poistetaan valittu määrä osatekijöitä ilman vahvistuskyselyä."
+msgstr "Poistaa valitun elementin tai elementit kysymättä vahvistusta."
 
 #. TniCB
 #: sc/uiconfig/scalc/ui/definedatabaserangedialog.ui:368
@@ -23963,10 +23958,9 @@ msgstr ""
 
 #. MBAnE
 #: sc/uiconfig/scalc/ui/managenamesdialog.ui:501
-#, fuzzy
 msgctxt "managenamesdialog|extended_tip|delete"
 msgid "Deletes the selected element or elements without requiring confirmation."
-msgstr "Poistetaan valittu määrä osatekijöitä ilman vahvistuskyselyä."
+msgstr "Poistaa valitun elementin tai elementit kysymättä vahvistusta."
 
 #. j3EMw
 #: sc/uiconfig/scalc/ui/managenamesdialog.ui:537
@@ -24372,10 +24366,9 @@ msgstr ""
 
 #. ozH98
 #: sc/uiconfig/scalc/ui/namerangesdialog.ui:327
-#, fuzzy
 msgctxt "namerangesdialog|extended_tip|delete"
 msgid "Deletes the selected element or elements without requiring confirmation."
-msgstr "Poistetaan valittu määrä osatekijöitä ilman vahvistuskyselyä."
+msgstr "Poistaa valitun elementin tai elementit kysymättä vahvistusta."
 
 #. E2Wk2
 #: sc/uiconfig/scalc/ui/namerangesdialog.ui:379
@@ -26676,10 +26669,9 @@ msgstr "Poista"
 
 #. FAswN
 #: sc/uiconfig/scalc/ui/optsortlists.ui:286
-#, fuzzy
 msgctxt "optsortlists|extended_tip|delete"
 msgid "Deletes the selected element or elements without requiring confirmation."
-msgstr "Poistetaan valittu määrä osatekijöitä ilman vahvistuskyselyä."
+msgstr "Poistaa valitun elementin tai elementit kysymättä vahvistusta."
 
 #. L7EBD
 #: sc/uiconfig/scalc/ui/optsortlists.ui:311

@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.libreoffice.org/enter_bug.cgi?product=LibreOffice&bug_status=UNCONFIRMED&component=UI\n"
 "POT-Creation-Date: 2020-11-22 12:51+0100\n"
-"PO-Revision-Date: 2021-05-18 17:37+0000\n"
+"PO-Revision-Date: 2021-10-25 16:31+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fito@libreoffice.org>\n"
 "Language-Team: Catalan <https://translations.documentfoundation.org/projects/libo_help-7-1/textshared00/ca/>\n"
 "Language: ca\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Accelerator-Marker: ~\n"
-"X-Generator: Weblate 4.4.2\n"
+"X-Generator: Weblate 4.8.1\n"
 "X-Language: ca\n"
 "X-POOTLE-MTIME: 1561601622.000000\n"
 
@@ -1543,7 +1543,7 @@ msgctxt ""
 "par_id3146067\n"
 "help.text"
 msgid "Font Color"
-msgstr "Color del tipus de lletra"
+msgstr "Color de la lletra"
 
 #. AEQa2
 #: 00000004.xhp
@@ -1561,7 +1561,7 @@ msgctxt ""
 "par_id3149893\n"
 "help.text"
 msgid "Font Color"
-msgstr "Color del tipus de lletra"
+msgstr "Color de la lletra"
 
 #. TsxVC
 #: 00000004.xhp
@@ -5998,7 +5998,7 @@ msgctxt ""
 "hd_id3154926\n"
 "help.text"
 msgid "Default fonts"
-msgstr "Tipus de lletra per defecte"
+msgstr "Lletres tipogràfiques per defecte"
 
 #. MTpGD
 #: 00000215.xhp
@@ -7376,7 +7376,7 @@ msgctxt ""
 "par_id3148608\n"
 "help.text"
 msgid "<variable id=\"epsexport\">Choose <menuitem>File - Export</menuitem>, if EPS is selected as file type, this dialog opens automatically.</variable>"
-msgstr "<variable id=\"epsexport\">Tria <menuitem>File - Exporta</menuitem> si EPS està seleccionat com a tipus de fitxer aquest diàleg s'obre automàticament.</variable>"
+msgstr "<variable id=\"epsexport\">Trieu <menuitem>Fitxer ▸ Exporta</menuitem>; si l'EPS s'ha seleccionat com a tipus de fitxer, aquest diàleg s'obre automàticament.</variable>"
 
 #. ADXoF
 #: 00000401.xhp
@@ -8097,13 +8097,12 @@ msgstr "Galeria Fontwork"
 
 #. uMQfA
 #: 00000404.xhp
-#, fuzzy
 msgctxt ""
 "00000404.xhp\n"
 "par_id521577299133097\n"
 "help.text"
 msgid "Choose <menuitem>Insert - Fontwork</menuitem>"
-msgstr "Trieu <menuitem>Insereix - Fontwork</menuitem>"
+msgstr "Trieu <menuitem>Insereix ▸ Fontwork</menuitem>"
 
 #. jYEWS
 #: 00000404.xhp
@@ -8249,7 +8248,7 @@ msgctxt ""
 "par_id3146765\n"
 "help.text"
 msgid "Choose <emph><item type=\"menuitem\">Insert - Media - Clip Art Gallery</item></emph> or open <emph>Standard</emph> bar, click"
-msgstr "Trieu <emph><item type=\"menuitem\"> Insereix ▸ Media ▸ Clip Art Gallery</item></emph> o obriu la barra <emph>Standard</emph> feu clic a la barra"
+msgstr "Trieu <emph><item type=\"menuitem\">Insereix ▸ Multimèdia ▸ Imatges predissenyades</item></emph> o obriu la barra <emph>Estàndard</emph> i feu clic a"
 
 #. EQ6v8
 #: 00000406.xhp
